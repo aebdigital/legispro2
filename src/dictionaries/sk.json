@@ -1,0 +1,546 @@
+{
+    "meta": {
+        "title": "LegisPro - Advokátska kancelária Bratislava",
+        "description": "Profesionálne právne služby pre firmy a podnikateľov. Špecializujeme sa na start-upy, GDPR, reality, daňové právo a obchodné transakcie."
+    },
+    "nav": {
+        "home": "Domov",
+        "about": "O nás",
+        "services": "Služby",
+        "business_package": "Podnikateľský balík",
+        "training": "Školenia a webináre",
+        "contact": "Konzultácia",
+        "subtitle": "Advokátska kancelária"
+    },
+    "hero": {
+        "title": "Profesionálne právne služby",
+        "description": "Špecializujeme sa na START UPy, GDPR, reality, daňové právo a obchodné transakcie.",
+        "bookBtn": "Kontaktujte nás",
+        "learnMoreBtn": "Zistiť viac"
+    },
+    "about": {
+        "title": "Advokátska kancelária LegisPro",
+        "description": "Poskytuje právne služby na území Slovenskej republiky pre domácich a zahraničných klientov. Špecializujeme sa na podporu a realizáciu nových „green field\" projektov ako i na optimalizačné riešenia existujúcich procesov a štruktúr. Významnú časť našej agendy tvorí oblasť finančného práva a podnikových financií. Okrem toho sa venujeme aj oblasti ochrany osobných údajov, obchodného práva, sporovej a trestno-právnej agende.",
+        "founder": {
+            "name": "JUDr. Ing. Jozef Kubaský – zakladajúci partner",
+            "description": "Advokát a ekonóm. Absolvent Právnickej fakulty Univerzity Komenského v Bratislave a Fakulty ekonomiky a Manažmentu Slovenskej Poľnohospodárskej Univerzity v Nitre. Mám 18 ročné skúsenosti s prácou pre medzinárodné korporáty. Špecializujem sa na „green field\" projekty vytvárania nových štruktúr alebo re-alokáciu existujúcich štruktúr zahraničných spoločností na územie Slovenskej republiky. Mojou doménou sú najmä start-up-y, green field-y, optimalizačné riešenia, finančné a obchodné právo. Hovorím plynule francúzsky, anglicky a nemecky."
+        }
+    },
+    "services": {
+        "title": "Právne služby",
+        "subtitle": "Poskytujeme komplexné právne služby pre firmy a podnikateľov. Špecializujeme sa na start-upy, GDPR, reality a obchodné právo.",
+        "exploreBtn": "Preskúmať všetky",
+        "moreInfoBtn": "Viac informácií",
+        "items": {
+            "commercial-law": {
+                "title": "Obchodné právo",
+                "description": "Poskytujeme komplexné služby v oblasti obchodného práva, od zakladania spoločností až po náročné transakcie a spory.",
+                "mainContentTitle": "Služby obchodného práva",
+                "category": "Komplexné služby obchodného práva",
+                "image": "/sources/images/debt-collection-1.jpg",
+                "features": [
+                    {
+                        "title": "Vymáhanie pohľadávok",
+                        "description": "Máme dlhoročné skúsenosti s vymáhaním pohľadávok pre našich klientov na území Slovenskej republiky a Európskej únie. Úspešnosť vymoženia pohľadávky závisí aj od okamžitej a intenzívnej komunikácie s dlžníkom. V takomto prípade pristúpi dlžník veľakrát na jeden z nami navrhnutých a osvedčených spôsobov úhrady dlhu."
+                    },
+                    {
+                        "title": "Zakladanie obchodných spoločností",
+                        "description": "Posúdime Váš obchodný model, navrhneme Vám najvhodnejší typ právnej formy a novú spoločnosť Vám profesionálne založíme."
+                    },
+                    {
+                        "title": "Likvidácia obchodných spoločností",
+                        "description": "Pomôžeme Vám s ukončením Vášho podnikania a prevezmeme komunikáciu s Vaším účtovníkom tak, aby bola Vaša spoločnosť vymazaná z Obchodného registra v čo najkratšom čase."
+                    },
+                    {
+                        "title": "Zlúčenie obchodných spoločností (fúzie)",
+                        "description": "Podnikáte pod viacerými spoločnosťami, ktoré majú rovnaký predmet podnikania? Potrebujeme optimalizovať Váš podnikateľský model, aby ste sa vyhli prípadným postihom zo strany finančnej správy? Pripravíme Vám projekt zlúčenia Vašich spoločností a uskutočníme všetky potrebné úkony, aby ste sa vyhli prípadným rizikám."
+                    },
+                    {
+                        "title": "Predaj podniku alebo jeho časti",
+                        "description": "Potrebujete predať Váš podnik alebo jeho časť? Neváhajte sa na nás obrátiť."
+                    },
+                    {
+                        "title": "Podávanie návrhov na vyhlásenie konkurzu",
+                        "description": "Ste veriteľ a máte dlžníka, ktorý Vám neplatí Vaše pohľadávky? Preveríme možnosť podania návrh na vyhlásenie konkurzu na Vášho dlžníka, prípadne prihlásime Vaše pohľadávky a zastúpime Vás počas celého procesu. Ste dlžník a potrebujete zistiť, či Vám vznikla povinnosť vyhlásiť konkurz? Uskutočníme analýzu Vašich záväzkov, pomôžeme Vám s podaním návrhu na vyhlásenie konkurzu a prevedieme Vás celým procesom."
+                    },
+                    {
+                        "title": "Registrácia do registra partnerov verejného sektora",
+                        "description": "Potrebujete sa registrovať ako partner verejného sektora? Ako oprávnená osoba Vás zaregistrujeme a v pravidelných intervaloch uskutočníme verifikáciu."
+                    },
+                    {
+                        "title": "Registrácia zoznamu akcionárov akciovej spoločnosti do Centrálneho depozitára cenných papierov",
+                        "description": "Máme bohaté skúsenosti s akciovými spoločnosťami. Sme v pravidelnom kontakte s centrálnym depozitárom cenných papierov. Zastúpime Vás počas celého procesu od uzatvorenia Zmluvy o vedení zoznamu akcionárov až po registráciu zoznamu akcionárov v centrálnom depozitári CP."
+                    }
+                ]
+            },
+            "financial-law": {
+                "title": "Daňové a Finančné právo",
+                "description": "Rozumieme korporátom a podnikovým financiám. Máme dlhoročné skúsenosti v oblasti korporátnych financií, účtovníctva a daní.",
+                "mainContentTitle": "Daňová optimalizácia a poradenstvo",
+                "mainContentIntro": "Posúdime Váš biznis model a navrhneme opatrenia pre jeho daňovo-ekonomickú optimalizáciu. Zastúpime Vás v správnom konaní pred orgánmi finančnej správy.",
+                "category": "Daňové a finančné poradenstvo",
+                "image": "/sources/images/tax-law-1.jpg",
+                "features": [
+                    {
+                        "title": "Daňová optimalizácia",
+                        "description": "Analyzujeme Váš biznis model a navrhneme legálne spôsoby optimalizácie daňovej záťaže pri zachovaní súladu s legislatívou."
+                    },
+                    {
+                        "title": "Korporátne financie",
+                        "description": "Poskytujeme poradenstvo v oblasti korporátnych financií, štruktúrovania transakcií a finančného plánovania."
+                    },
+                    {
+                        "title": "Zastupovanie pred finančnou správou",
+                        "description": "Zastúpime Vás v správnom konaní pred orgánmi finančnej správy, pomôžeme pri daňových kontrolách a odvolaniach."
+                    },
+                    {
+                        "title": "Transfer pricing",
+                        "description": "Poradenstvo v oblasti transfer pricing, príprava dokumentácie a zastupovanie pri kontrolách."
+                    }
+                ]
+            },
+            "criminal-law": {
+                "title": "Trestné právo",
+                "description": "Naša advokátska kancelária sa venuje aj zastupovaniu klientov v trestnom konaní, najmä v daňových a iných hospodárskych trestných činoch.",
+                "mainContentTitle": "Obhajoba v trestnom konaní",
+                "mainContentIntro": "Neváhajte sa na nás obrátiť. Poskytujeme profesionálnu obhajobu a zastupovanie v trestných veciach so špecializáciou na hospodárske trestné činy.",
+                "category": "Obhajoba v trestnom konaní",
+                "image": "/sources/images/criminal-law-1.jpg",
+                "features": [
+                    {
+                        "title": "Daňové trestné činy",
+                        "description": "Špecializujeme sa na obhajobu v prípadoch daňových trestných činov, skrátenia dane, neodvedenia dane a podobných skutkov."
+                    },
+                    {
+                        "title": "Hospodárske trestné činy",
+                        "description": "Zastupovanie pri hospodárskych trestných činoch ako sú podvod, zneužívanie právomoci, úplatkárstvo a korupcia."
+                    },
+                    {
+                        "title": "Trestné konanie",
+                        "description": "Komplexná obhajoba vo všetkých fázach trestného konania od vyšetrovania až po odvolanie k vyššiemu súdu."
+                    },
+                    {
+                        "title": "Preventívne poradenstvo",
+                        "description": "Poskytujeme aj preventívne poradenstvo na zabránenie vzniku trestnoprávnych problémov vo Vašom podnikaní."
+                    }
+                ]
+            },
+            "start-ups-greenfield-projects": {
+                "title": "Realizácia Start-up & Greenfield projektov",
+                "description": "Máme radi nové a zaujímavé nápady. Pomôžeme Vám spustiť, rozbehnúť a rozvíjať Vaše nové projekty.",
+                "mainContentTitle": "Komplexné služby pre nové projekty",
+                "mainContentIntro": "Budeme Vás sprevádzať celým, veľakrát komplikovaným a časovo náročným procesom tak, aby ste sa mohli sústrediť na podstatu Vášho projektu a všetko ostatné za Vás vyriešime my.",
+                "category": "Spustenie nových projektov",
+                "image": "/sources/greenfield.jpg",
+                "features": [
+                    {
+                        "title": "Povolenia a licencie",
+                        "description": "Pokiaľ si Váš projekt vyžaduje špecifické povolenia, zastúpime Vás v konaní pred príslušnými orgánmi štátnej správy, pomôžeme Vám s vypracovaním potrebných dokumentov pre získanie daného povolenia."
+                    },
+                    {
+                        "title": "Ochrana duševného vlastníctva",
+                        "description": "Zabezpečíme, aby bolo Vaše duševné vlastníctvo, výsledky Vášho myslenia a tvorivosti, ako napr. patenty, postupy, značky, logá, programy atď., a práva s tým spojené chránené pred ich zneužitím konkurenciou."
+                    },
+                    {
+                        "title": "Získanie investícií",
+                        "description": "V prípade, ak si Váš projekt vyžaduje vstupné investície, pomôžeme Vám pri ich získaní. Denne komunikujeme vo francúzštine, angličtine či nemčine, radi Vám pomôžeme s oslovením Vášho budúceho obchodného partnera a prevezmeme celú následnú komunikáciu až do úspešného uzatvorenia zmluvného vzťahu."
+                    },
+                    {
+                        "title": "Biznis model a optimalizácia",
+                        "description": "Poradíme Vám pri zostavení Vášho biznis modelu tak, aby bol čo najefektívnejší, a to nielen právne, ale i daňovo-ekonomicky."
+                    }
+                ]
+            },
+            "real-estate": {
+                "title": "Reality",
+                "description": "Potrebujete kúpiť či predať nehnuteľnosť? Máme dlhoročné skúsenosti na realitnom trhu.",
+                "mainContentTitle": "Bezpečné realitné transakcie",
+                "mainContentIntro": "Vždy veľmi dôkladne preverujeme danú transakciu a sledujeme jej celý priebeh. Veľakrát sa nám podarilo ochrániť našich klientov a ušetriť im značné prostriedky.",
+                "category": "Právne služby v oblasti nehnuteľností",
+                "image": "/sources/images/real-estate-1.jpg",
+                "features": [
+                    {
+                        "title": "Due diligence nehnuteľností",
+                        "description": "Dôkladne preverujeme územný plán danej zóny, existenciu exekučných titulov a iných skutočností, ktoré môžu ovplyvniť Vaše rozhodnutie."
+                    },
+                    {
+                        "title": "Právne zastupovanie",
+                        "description": "Budeme Vás sprevádzať celým procesom kúpy či predaja Vašej nehnuteľnosti, tak aby ste boli Vy a Váš majetok v čo najväčšej miere chránení."
+                    },
+                    {
+                        "title": "Overovanie dokumentov",
+                        "description": "Častokrát sa stáva, že predávajúci zamlčí určité skutočnosti, ktoré je možné zistiť až pri hlbšom skúmaní dokumentácie a registrov."
+                    },
+                    {
+                        "title": "Zmluvná dokumentácia",
+                        "description": "Pripravíme všetky potrebné zmluvy a dokumenty pre bezpečný prevod nehnuteľnosti s ochranou Vašich záujmov."
+                    }
+                ]
+            },
+            "due-diligence": {
+                "title": "Due Diligence",
+                "description": "Plánujete významnú obchodnú transakciu? Rozumieme potrebe získania kvalitných, spoľahlivých a kompletných informácií.",
+                "mainContentTitle": "Komplexné Due Diligence",
+                "mainContentIntro": "Rozumieme potrebe získania kvalitných, spoľahlivých a kompletných informácií pre posúdenie následkov takejto transakcie a bonity či dôveryhodnosti samotného obchodného partnera.",
+                "category": "Analýza obchodných transakcií",
+                "image": "/sources/images/due-diligence-1.jpg",
+                "features": [
+                    {
+                        "title": "Právne Due Diligence",
+                        "description": "Dôkladná analýza právnej situácie spoločnosti, zmluvných vzťahov, súdnych sporov a právnych rizík."
+                    },
+                    {
+                        "title": "Finančné Due Diligence",
+                        "description": "Analýza finančného stavu, účtovníctva, daňových povinností a finančných rizík cieľovej spoločnosti."
+                    },
+                    {
+                        "title": "Obchodné Due Diligence",
+                        "description": "Hodnotenie obchodného modelu, trhového postavenia, konkurenčnej pozície a perspektív rastu."
+                    },
+                    {
+                        "title": "Komplexné správy",
+                        "description": "Celý proces môžete nechať na nás, radi Vám s ním pomôžeme a poskytneme podrobné správy s odporúčaniami."
+                    }
+                ]
+            },
+            "gdpr": {
+                "title": "GDPR",
+                "description": "Pripravíme Vám na mieru šitú GDPR dokumentáciu a zabezpečíme súlad s aktuálnou právnou úpravou.",
+                "mainContentTitle": "Komplexné GDPR riešenia",
+                "mainContentIntro": "Ochrana osobných údajov je dnes nevyhnutnosťou. Pomôžeme vám splniť všetky požiadavky GDPR.",
+                "category": "Ochrana osobných údajov",
+                "image": "/sources/images/gdpr-special-1.jpg",
+                "features": [
+                    {
+                        "title": "GDPR dokumentácia na mieru",
+                        "description": "Pripravíme Vám na mieru šitú GDPR dokumentáciu, ktorá bude presne zodpovedať potrebám a špecifikám Vášho podnikania."
+                    },
+                    {
+                        "title": "Školenia a vzdelávanie",
+                        "description": "Vyškolíme Vás a Vašich zamestnancov na problematiku ochrany osobných údajov. Zabezpečíme, aby všetci rozumeli svojim povinnostiam a zodpovednostiam."
+                    },
+                    {
+                        "title": "Aktualizácia smerníc",
+                        "description": "Zabezpečíme, aby boli vaše interné smernice vždy v súlade s aktuálnou právnou úpravou. Priebežne monitorujeme zmeny v legislatíve a prispôsobujeme dokumentáciu."
+                    },
+                    {
+                        "title": "Zastupovanie pred úradmi",
+                        "description": "Zastúpime Vás v konaní pred Úradom na ochranu osobných údajov v prípade akýchkoľvek problémov alebo kontrol."
+                    },
+                    {
+                        "title": "DPO služby",
+                        "description": "Poskytujeme služby poverenca pre ochranu osobných údajov (DPO) pre firmy, ktoré túto funkciu potrebują podľa zákona."
+                    }
+                ],
+                "checklist": [
+                    {
+                        "title": "Register spracovateľských činností",
+                        "description": "Vedenie kompletného registra všetkých spracovateľských činností v súlade s GDPR."
+                    },
+                    {
+                        "title": "Informačné doložky",
+                        "description": "Vytvorenie transparentných informačných doložiek pre všetky spôsoby zberu osobných údajov."
+                    },
+                    {
+                        "title": "Súhlasy dotknutých osôb",
+                        "description": "Zabezpečenie platných a dokumentovaných súhlasov v súlade s GDPR požiadavkami."
+                    },
+                    {
+                        "title": "Postupy pre uplatnenie práv",
+                        "description": "Vytvorenie efektívnych postupov pre uplatňovanie práv dotknutých osôb."
+                    },
+                    {
+                        "title": "Posúdenie vplyvu na ochranu údajov",
+                        "description": "Vykonávanie DPIA pre vysokorizikové spracovateľské činnosti."
+                    },
+                    {
+                        "title": "Incident management",
+                        "description": "Vytvorenie postupov pre hlásenie a riešenie únikov osobných údajov."
+                    }
+                ]
+            },
+            "litigations": {
+                "title": "Sporové zastupovanie",
+                "description": "Zastúpime Vás pri uplatňovaní si Vašich občiansko-právnych či obchodno-právnych nárokov.",
+                "mainContentTitle": "Profesionálne zastupovanie v sporoch",
+                "mainContentIntro": "Radi si s Vami prejdeme daný prípad a posúdime mieru jeho úspešnosti. V záujme efektívnosti a v neposlednom rade ušetrenia prostriedkov našich klientov sa vždy najskôr pokúsime vyriešiť danú vec mimosúdnou cestou.",
+                "category": "Zastupovanie v sporoch",
+                "image": "/sources/images/litigation-1.jpg",
+                "features": [
+                    {
+                        "title": "Občianskoprávne spory",
+                        "description": "Zastupovanie v občianskoprávnych sporoch vrátane zmluvných sporov, náhrady škody a iných civilných záležitostí."
+                    },
+                    {
+                        "title": "Obchodnoprávne spory",
+                        "description": "Riešenie obchodných sporov, porušenie zmlúv, problémy s dodávateľmi a odberateľmi, konkurenčné spory."
+                    },
+                    {
+                        "title": "Pracovnoprávne spory",
+                        "description": "Zastupovanie v sporoch vyplývajúcich z pracovnoprávnych vzťahov, či už na strane zamestnávateľa alebo zamestnanca."
+                    },
+                    {
+                        "title": "Mimosúdne riešenie",
+                        "description": "Snažíme sa vždy najprv vyriešiť spor mimosúdnou cestou, čo šetrí čas, náklady a zachováva obchodné vzťahy."
+                    },
+                    {
+                        "title": "Súdne konania",
+                        "description": "Ak je súdne konanie nevyhnutné, poskytujeme komplexné zastupovanie vo všetkých stupňoch súdneho konania."
+                    }
+                ]
+            },
+            "optimization-solutions": {
+                "title": "Optimalizačné riešenia",
+                "description": "Nie vždy si je spoločnosť vedomá toho, že potrebuje optimalizovať alebo aktualizovať svoje podnikové procesy.",
+                "mainContentTitle": "Audit a optimalizácia procesov",
+                "mainContentIntro": "Pri samotnom audite sa ale častokrát preukáže jeho opodstatnenie. Neustále sa meniace trhové prostredie si vyžaduje našu pozornosť.",
+                "category": "Audit a optimalizácia procesov",
+                "image": "/sources/images/training-1.jpg",
+                "features": [
+                    {
+                        "title": "Audit interných procesov",
+                        "description": "Uskutočníme audit Vašich interných procesov, analyzujeme ich efektívnosť a identifikujeme oblasti pre zlepšenie."
+                    },
+                    {
+                        "title": "Návrh optimalizačných riešení",
+                        "description": "Navrhneme Vám konkrétne optimalizačné riešenia a vyčíslime potenciálne úspory, ktoré môžete dosiahnuť."
+                    },
+                    {
+                        "title": "Analýza zmlúv",
+                        "description": "Analyzujeme Vaše jestvujúce zmluvy z hľadiska ich výhodnosti, možnosti výpovede či zmeny."
+                    }
+                ]
+            },
+            "ecommerce": {
+                "title": "e-Commerce",
+                "description": "Vypracujeme pre Vás kompletnú a Vám prispôsobenú dokumentáciu pre Váš nový internetový projekt.",
+                "mainContentTitle": "Komplexné e-Commerce riešenia",
+                "mainContentIntro": "Nemusíte sa zaoberať tým čo musia obsahovať všeobecné obchodné podmienky, ako musí vyzerať objednávka či reklamačný formulár. Pripravíme pre Vás všetky potrebné dokumenty, vrátane GDPR.",
+                "category": "Právne služby pre online podnikanie",
+                "image": "/sources/images/ecommerce-1.jpg",
+                "features": [
+                    {
+                        "title": "Všeobecné obchodné podmienky",
+                        "description": "Vytvoríme na mieru šité VOP pre Váš e-shop, ktoré budú v súlade s aktuálnou legislatívou a chrániť Vaše záujmy."
+                    },
+                    {
+                        "title": "GDPR pre e-shop",
+                        "description": "Kompletná GDPR dokumentácia špeciálne prispôsobená pre potreby online predaja a spracovanie osobných údajov zákazníkov."
+                    },
+                    {
+                        "title": "Reklamačný poriadok",
+                        "description": "Profesionálny reklamačný poriadok a formuláre, ktoré zabezpečia správne riešenie reklamácií a ochranu pred neopodstatnenými nárokmi."
+                    },
+                    {
+                        "title": "Marketingová podpora",
+                        "description": "Prostredníctvom našej partnerskej spoločnosti Vám radi pomôžeme s reklamou a propagáciou Vášho nového e-shopu či webu."
+                    }
+                ]
+            },
+            "business-package": {
+                "title": "Podnikateľský balík",
+                "description": "Aby ste už nemuseli nikam chodiť - komplexné služby pre začínajúcich podnikateľov pod jednou strechou.",
+                "category": "Podnikanie",
+                "image": "/sources/images/tax-law-1.jpg",
+                "mainContent": "<h2>Komplexné služby pre začínajúcich podnikateľov</h2><p>Začínate podnikať? Či už ako obchodná spoločnosť, alebo SZČO, zabezpečíme pre Vás pod jednou strechou všetko, čo k rozbehu Vášho projektu potrebujete. Poskytneme Vám poradenstvo a navrhneme najvýhodnejšiu formu Vášho podnikania.</p>",
+                "features": [
+                    {
+                        "title": "Zakladanie spoločností",
+                        "description": "Založíme Vašu novú spoločnosť a poskytneme Vám kompletnú právnu podporu pri výbere optimálnej formy podnikania."
+                    },
+                    {
+                        "title": "Ekonomické služby",
+                        "description": "Poskytujeme profesionálne ekonomické služby ako vedenie účtovníctva a miezd, daňové poradenstvo, vypracovanie výkazov a DPH."
+                    },
+                    {
+                        "title": "20-ročné skúsenosti",
+                        "description": "Využite naše viac než 20 ročné skúsenosti v oblasti podnikových financií a komplexného poradenstva."
+                    },
+                    {
+                        "title": "Konatelia a spoločníci",
+                        "description": "Stali ste sa konateľom spoločnosti? Z tohto postavenia Vám vyplývajú určité práva a povinnosti. Nastavíme Vaše interné procesy a pomôžeme sa v tejto problematike zorientovať."
+                    },
+                    {
+                        "title": "Obchodné právo",
+                        "description": "Máte neuhradené faktúry či iné pohľadávky? Poradíme Vám aké sú Vaše možnosti a ako postupovať pre úspešné vymoženie dlžnej sumy vrátane príslušenstva."
+                    }
+                ]
+            },
+            "training-webinars": {
+                "title": "Školenia a webináre",
+                "description": "Profesionálne školenia z oblasti práva prispôsobené Vašim potrebám vo forme osobných prednášok alebo webinárov.",
+                "category": "Vzdelávanie",
+                "image": "/sources/images/contact-office-1.jpg",
+                "mainContent": "<h2>Odborné školenia na mieru</h2><p>Radi Vám ponúkneme už pripravené školenia alebo pre Vás spracujeme nové témy z oblasti občianskeho, obchodného, pracovného, finančného práva, alebo iné témy podľa Vašej potreby. Témy pre Vás spracujeme vo forme osobných prednášok alebo webinárov.</p>",
+                "features": [
+                    {
+                        "title": "Občianske právo",
+                        "description": "Komplexné školenia z oblasti občianskeho práva vrátane zmluvného práva, vlastníckych vzťahov a zodpovednosti za škodu."
+                    },
+                    {
+                        "title": "Obchodné právo",
+                        "description": "Školenia zamerané na obchodné záväzkové vzťahy, obchodné spoločnosti a ich riadenie, fúzie a akvizície."
+                    },
+                    {
+                        "title": "Pracovné právo",
+                        "description": "Aktuálne témy z pracovného práva, zmeny v legislatíve, správne vedenie personálnej agendy a riešenie pracovnoprávnych sporov."
+                    },
+                    {
+                        "title": "Finančné právo",
+                        "description": "Školenia z daňového práva, transfer pricing, optimalizácia daňovej záťaže a komunikácia s finančnou správou."
+                    },
+                    {
+                        "title": "Flexibilné formy",
+                        "description": "Školenia realizujeme vo forme osobných prednášok na Vašej prevádzke alebo formou online webinárov podľa Vašich potrieb."
+                    }
+                ]
+            }
+        }
+    },
+    "process": {
+        "title": "Ako postupujeme",
+        "description": "Naša práca je založená na systematickom prístupe, ktorý zabezpečuje najlepšie výsledky pre našich klientov. Od prvého kontaktu až po uzavretie prípadu vás sprevádzame každým krokom právneho procesu.",
+        "ctaBtn": "Dohodnite si stretnutie",
+        "steps": [
+            {
+                "id": "01",
+                "title": "Prvá konzultácia",
+                "description": "Vypočujeme si vaše potreby a posúdime váš právny problém. Bez záväzkov vám predstavíme možné riešenia."
+            },
+            {
+                "id": "02",
+                "title": "Analýza a stratégia",
+                "description": "Pripravíme detailnú analýzu vášho prípadu a navneme najlepšiu právnu stratégiu na dosiahnutie vašich cieľov."
+            },
+            {
+                "id": "03",
+                "title": "Realizácia a výsledok",
+                "description": "Profesionálne zastupujeme vaše záujmy a riešime váš prípad až do úspešného záveru."
+            }
+        ]
+    },
+    "vision": {
+        "title": "Naša vízia a hodnoty",
+        "description": "Sme tu pre vás už roky a naše skúsenosti hovorí za nás. Dôverujte odborníkom, ktorí rozumejú vašim potrebám a poskytnú vám najlepšie riešenia.",
+        "values": [
+            "Profesionalita a odbornosť",
+            "Transparentnosť vo všetkých krokoch",
+            "Individuálny prístup ku klientom",
+            "Dlhodobé partnerstvo",
+            "Efektívne riešenia"
+        ]
+    },
+    "blog": {
+        "title": "Blog",
+        "description": "Aktuálne právne témy a praktické rady od odborníkov.",
+        "exploreBtn": "Preskúmať všetky",
+        "readMore": "Čítať celý príspevok",
+        "featuredLabel": "Odporúčané",
+        "recentPosts": "Najnovšie články",
+        "posts": {
+            "danove-kontroly-transfer-pricing": {
+                "title": "Daňová kontrola a najčastejšie nedostatky v transferovom oceňovaní",
+                "description": "Účelom daňovej kontroly je preskúmanie postupov daňovníka pri stanovení transferových cien, t.j. či zvolil vhodnú transferovú metódu, či disponuje dostatočnou dokumentáciou k preverovaným transakciám.",
+                "excerpt": "Všeobecný priebeh daňovej kontroly je upravený v § 44 až § 47 zákona č. 563/2009 Z.z. o správe daní(daňový poriadok) a o zmene a doplnení niektorých zákonov. Účelom daňovej kontroly je preskúmanie postupov daňovníka pri stanovení transferových cien, t.j. či zvolil vhodnú transferovú metódu, či disponuje dostatočnou dokumentáciou k preverovaným transakciám, či vie transparentne podať vysvetlenie k jednotlivým prípadom, či si zvolil správnu základňu pre analýzu porovnateľnosti a teda či vie dostatočne preukázať aplikáciu princípu nezávislosti pri závislých transakciách, ktoré uskutočnil v danom zdaňovacom období.",
+                "category": "Daňové právo",
+                "date": "15. november 2024",
+                "readingTime": "8 min čítania",
+                "image": "/sources/images/tax-law-1.jpg",
+                "content": "<h2>Účel a priebeh daňovej kontroly</h2><p>Všeobecný priebeh daňovej kontroly je upravený v § 44 až § 47 zákona č. 563/2009 Z.z. o správe daní(daňový poriadok) a o zmene a doplnení niektorých zákonov(ďalej len „daňový poriadok\"). Účelom daňovej kontroly je preskúmanie postupov daňovníka pri stanovení transferových cien, t.j. či zvolil vhodnú transferovú metódu, či disponuje dostatočnou dokumentáciou k preverovaným transakciám, či vie transparentne podať vysvetlenie k jednotlivým prípadom, či si zvolil správnu základňu pre analýzu porovnateľnosti a teda či vie dostatočne preukázať aplikáciu princípu nezávislosti pri závislých transakciách, ktoré uskutočnil v danom zdaňovacom období.</p><h3>Začiatok a oznámenie daňovej kontroly</h3><p>Podľa § 44 daňového poriadku začína daňová kontrola dňom, ktorý určí správca dane, a o ktorom informuje daňovníka prostredníctvom oznámenia. Oznámenie musí ďalej obsahovať miesto výkonu kontroly, druh dane, ktorá bude predmetom kontroly, kontrolované obdobie a lehotu na predloženie požadovanej dokumentácie spolu s poučením o následkoch jej nedodržania. Správca dane môže začať daňovú kontrolu aj bez oznámenia v prípade, ak má podozrenie, že daňovník bude pozmeňovať alebo znehodnocovať doklady potrebné pre posúdenie daného prípadu.</p><p>Pokiaľ správca dane, počas prebiehajúcej daňovej kontroly, identifikuje nezrovnalosti aj v iných obdobiach než uvedených v oznámení, je oprávnený rozšíriť kontrolu aj na tieto obdobia.</p><h3>Povinnosti daňovníka počas kontroly</h3><p>Daňovník je povinný umožniť správcovi dane vykonanie kontroly, umožniť mu prístup do priestorov a k svojmu softvéru, poskytovať mu súčinnosť a zapožičať mu materiály aj mimo svojich priestorov, pokiaľ o to správca dane požiada.</p><p>Počas kontroly preveruje správca dane predložené dokumenty z pohľadu ich správnosti, úplnosti a pravdivosti, pričom ak identifikuje akékoľvek nezrovnalosti, oznámi tieto daňovníkovi a vyzve ho, aby sa k nim vyjadril. Daňovník môže predkladať všetky doklady a poskytovať dôkazy a vysvetlenia k danému prípadu, ktoré následne správca dane posudzuje, pričom pokiaľ mu doklad, alebo vysvetlenie nestačí, vyzve daňovníka na doplnenie.</p><h2>Najčastejšie kontrolované oblasti</h2><p>Z hľadiska kontrolovaných oblastí je najčastejším predmetom kontrol najmä oblasť služieb, tovarov a nehmotného majetku. Ďalej je to oblasť prerozdeľovania nákladov medzi závislými podnikmi a skupinové financovanie.</p><p>Samotná kontrola prebieha prostredníctvom vzoriek, ktoré si správca dane vyberie a vyzve daňovníka na ich predloženie. Dôvodom výberu určitej kontrolovanej vzorky transakcie môže byť početnosť jej zastúpenia v rámci celkovej činnosti daňovníka. Výber vzorky môžu tiež ovplyvniť podozrenia správcu dane, napríklad, ak daňovník zmení podnikateľský model, alebo ak sa medziročne prehupne zo zisku do straty. Správca dane tiež obvykle otvára daňové kontroly u problematických daňovníkov, napríklad, ktorých v minulosti dorubil, alebo u tých, ktorí uskutočňujú rizikové transakcie.</p><h3>Čo správcovia dane kontrolujú</h3><p>Počas daňovej kontroly kontrolujú správcovia dane najmä:</p><ul><li>či bol predmet plnenia skutočne dodaný, alebo služby poskytnuté,</li><li>či daný predmet plnenia, alebo poskytnuté služby spoločnosť naozaj potrebovala, t. j. správca dane si položí otázku, či by kontrolovaný subjekt poskytol takúto službu aj nezávislej osobe,</li><li>či boli ceny stanovené v súlade s princípom nezávislého vzťahu.</li></ul><h2>Najčastejšie identifikované problémy</h2><p>Medzi najčastejšie identifikované problémy počas daňových kontrol patria:</p><ul><li><strong>neschopnosť podniku dostatočne vysvetliť služby poskytnuté medzi závislými osobami;</strong> daňovník musí nepochybne preukázať, že poskytnutá služba mala svoje opodstatnenie, t.j. súvisí s potrebami príjemcu a je v súlade s princípom nezávislého vzťahu,</li><li><strong>nedostačujúca, alebo neexistujúca transferová dokumentácia,</strong></li><li><strong>zlá kvalita transferovej dokumentácie,</strong></li><li><strong>nesúlad obsahovej stránky dokumentácie s predmetom činnosti daňovníka a jeho vysvetleniami,</strong></li><li><strong>nedostatočné podloženie faktorov porovnateľnosti,</strong> t.j. nedostatočná funkčná a riziková analýza, napr. príliš malá, alebo nevhodne zvolená porovnávacia základňa,</li><li><strong>nedostatočné vysvetlenie nižšej výšky zisku podniku v porovnaní s inými podnikmi v skupine,</strong></li><li><strong>neexistencia zmlúv a iných dokladov, ktoré by podložili zvolený postup daňovníka,</strong></li><li><strong>neschopnosť dodať správcovi dane požadované informácie o závislých osobách,</strong></li><li><strong>pomalosť, problematickosť alebo neschopnosť daňovníka reagovať na rôznorodé požiadavky správcu dane,</strong></li></ul><p>Na samotný priebeh a výsledok daňovej kontroly má nepochybne vplyv aj prístup kontrolovaného daňovníka k problematike transferových cien. Pokiaľ bude správca dane vidieť, že daňovník vynaložil maximálnu snahu v rámci dokumentačného procesu a táto snaha sa premietla do vysokej kvality predloženej dokumentácie, môže urýchliť priebeh daňovej kontroly, a to napríklad odsúhlasením použitej metódy, akceptovaním podnikových vysvetlení bez potreby ďalšieho skúmania čím v konečnom dôsledku nedorubí daň.</p>",
+                "tags": [
+                    "transferové oceňovanie",
+                    "daňová kontrola",
+                    "transfer pricing",
+                    "dokumentácia"
+                ]
+            },
+            "judikatura-transfer-pricing": {
+                "title": "Vybraná judikatúra v transferovom oceňovaní",
+                "description": "Problematika transferového oceňovania je dynamicky sa vyvíjajúcou oblasťou a dalo by sa povedať, že jej právna úprava nie je dostačujúca a jednoznačná.",
+                "excerpt": "Problematika transferového oceňovania je dynamicky sa vyvíjajúcou oblasťou a dalo by sa povedať, že jej právna úprava nie je dostačujúca a jednoznačná, čo sa prejavuje aj v rozdielnych pohľadoch na ňu z hľadiska správcu dane a daňovníka. V praxi to často vyúsťuje do dorubenia dane daňovníkovi a následným súdnym sporom. Pre účely tohto článku sa zameriame na rozdielne pohľady z hľadiska použitej transferovej metódy, právnej záväznosti smernice o transferovom oceňovaní a dôkazného bremena.",
+                "category": "Súdna prax",
+                "date": "10. november 2024",
+                "readingTime": "12 min čítania",
+                "image": "/sources/images/litigation-1.jpg",
+                "content": "<h2>Úvod do problematiky</h2><p>Problematika transferového oceňovania je dynamicky sa vyvíjajúcou oblasťou a dalo by sa povedať, že jej právna úprava nie je dostačujúca a jednoznačná, čo sa prejavuje aj v rozdielnych pohľadoch na ňu z hľadiska správcu dane a daňovníka. V praxi to často vyúsťuje do dorubenia dane daňovníkovi a následným súdnym sporom. Pre účely tohto článku sa zameriame na rozdielne pohľady z hľadiska použitej transferovej metódy, právnej záväznosti smernice o transferovom oceňovaní(ďalej len ako „smernica\") a dôkazného bremena.</p><h2>Rozsudok Krajského súdu v Bratislave - IKEA Industry Slovakia</h2><p>Krajský súd v Bratislave svojím rozsudkom evidovaným pod spisovou značkou 1S/231/2016, zamietol žalobu spoločnosti IKEA Industry Slovakia(ďalej len ako „žalobca\") proti Finančnému riaditeľstvu SR(ďalej len ako „žalovaný\"). Žalovaný uskutočnil u žalobcu daňovú kontrolu, na základe ktorej dorubil žalobcovi daň. Dôvodom dorubenia dane bolo zistenie, že žalobcom použitá metóda nezávislej trhovej ceny nemala byť aplikovaná, nakoľko žalobca nevie preukázať dostatočnú vzorku porovnateľných nezávislých transakcií, výrobkov a ich cien, čím nesplnil podmienku porovnateľnosti produktu, ekonomických okolností, zmluvných podmienok, funkcií a rizík. Žalovaný, vzhľadom na to, že mu vzorka nebola preukázaná, použil metódu čistého obchodného rozpätia, čím vznikol žalobcovi daňový nedoplatok. Svoje závery odôvodnil aplikovaním príslušných ustanovení zákona o dani z príjmov, pričom ich podoprel smernicou.</p><h3>Argumenty žalobcu</h3><p>Na druhej strane žalobca namietal, že úplne porovnateľné podmienky nie je možné dosiahnuť vzhľadom na rozdielne objemy výroby, líšiace sa výrobné podmienky a iné faktory ako napríklad dotácie. Namietal tiež, že smernica je na území Slovenskej republiky neúčinná, nemá záväzný charakter nakoľko nebola publikovaná v Zbierke zákonov SR a že je povinnosťou správcu dane, aby preukázal, je žalobcom použité ceny sú v nesúlade s cenami na nezávislom trhu.</p><h3>Rozhodnutie súdu</h3><p>Súd pri svojom rozhodovaní skonštatoval, že ak žalobca použil metódu nezávislej trhovej ceny, musí vedieť preukázať vzorku porovnateľných nezávislých transakcií. Zároveň akceptoval smernicu ako všeobecne uznávaný doplnkový výkladový prostriedok k všeobecne záväznej právnej úprave. Dôkazné bremeno je podľa súdu na žalobcovi, ktorý je povinný preukázať všetky skutočnosti, ktoré majú vplyv na správne určenie dane.</p><h2>Právna záväznosť smernice OECD</h2><p>Čo sa týka smernice, túto radíme medzi tzv. mäkké právo. Napriek tomu, že ide o najkomplexnejší dokument upravujúci problematiku transferových cien, nemá právnu záväznosť. Jej funkcia je skôr odporúčacia. Smernica je výkladovým prostriedkom k čl. 9 Modelovej zmluvy OECD o zamedzení dvojitého zdanenia. Svoj význam môže mať ako podporný prostriedok pri argumentácii k metodologicko-aplikačným otázkam výberu transferovej metodiky a politiky daňovníka na jednej strane a pre účely daňovej kontroly na strane druhej. V rámci právneho poriadku SR ju ale nemôžeme považovať ani za výkladový prostriedok ku zákonným ustanoveniam transferových cien pre transakcie, ktoré sa riadia slovenským právnym poriadkom. Preto podľa nášho názoru smernica nemá v právnom poriadku SR záväzný charakter.</p><h2>Dôkazné bremeno v transferovom oceňovaní</h2><p>Viaceré rozhodnutia NSSR existujú aj problematike dôkazného bremena z pohľadu subjektu, ktorý ho znáša. V rozsudku sp. zn. 5Sžf/97/2009 súd konštatuje, že žalobca ako daňový subjekt nemusí svoje tvrdenie, ktoré sám uvádza v rôznych daňových listinách, podaniach a hláseniach preukazovať, pokiaľ nenastane opak, tzn. ak správca dane počas daňovej kontroly, resp. v daňovom konaní nepredloží daňovému subjektu svoje zistenia jasne preukazujúce pochybnosti o jeho tvrdeniach.</p><p>V inom rozhodnutí vedenom pod sp. zn. 2Sžf/8/2016 dáva súd do pozornosti, že dôkazné bremeno daňového subjektu nie je absolútne. Na jednej strane treba mať na pamäti, že dokazovanie vedie správca dane, a na druhej strane tiež treba prihliadať na to, ktoré skutočnosti má povinnosť preukázať samotný daňový subjekt.</p><h2>Záver</h2><p>Na základe uvedeného by sa dal vyvodiť záver, že je povinnosťou daňového subjektu preukázať všetky skutočnosti, ktoré mali vplyv na ním určenú výšku dane a spôsob ako k nej dospel. Táto požiadavka nie je splnená, pokiaľ daňovníkova dokumentácia neposkytuje jasnú odpoveď na jeho transferovú politiku. Je pritom ale prirodzené, že správca dane môže mať otázky a môže vyžiadať od daňovníka dodatočné informácie. V tomto prípade je povinnosťou daňovníka dané otázky zodpovedať a informácie doplniť.</p>",
+                "tags": [
+                    "judikatúra",
+                    "transferové oceňovanie",
+                    "súdne rozhodnutia",
+                    "OECD smernica"
+                ]
+            },
+            "zapocitanie-pohladavok": {
+                "title": "Kedy je možné započítať pohľadávky",
+                "description": "Zánik pohľadávok započítaním predstavuje formu bezhotovostného vyrovnania sa medzi dlžníkom a veriteľom, kedy medzi nimi neodchádza k reálnemu plneniu.",
+                "excerpt": "Zánik pohľadávok započítaním predstavuje formu bezhotovostného vyrovnania sa medzi dlžníkom a veriteľom, kedy medzi nimi neodchádza k reálnemu plneniu, čo nepochybne prináša úsporu nákladov, ktoré by títo účastníci museli inak vynaložiť. Dalo by sa povedať, že ide formu náhradného plnenia záväzku veriteľovi, ktorým sa uspokojuje jeho pohľadávka. Vzhľadom na relatívnu jednoduchosť a efektivitu splnenia záväzkov týmto spôsobom ide v praxi o často využívaný inštitút.",
+                "category": "Obchodné právo",
+                "date": "5. november 2024",
+                "readingTime": "10 min čítania",
+                "image": "/sources/images/debt-collection-1.jpg",
+                "content": "<h2>Úvod do problematiky započítania</h2><p>Zánik pohľadávok započítaním predstavuje formu bezhotovostného vyrovnania sa medzi dlžníkom a veriteľom, kedy medzi nimi neodchádza k reálnemu plneniu, čo nepochybne prináša úsporu nákladov, ktoré by títo účastníci museli inak vynaložiť. Dalo by sa povedať, že ide formu náhradného plnenia záväzku veriteľovi, ktorým sa uspokojuje jeho pohľadávka. Vzhľadom na relatívnu jednoduchosť a efektivitu splnenia záväzkov týmto spôsobom ide v praxi o často využívaný inštitút. Nie vždy sú ale dodržané zákonné podmienky pre jeho použitie.</p><h2>Hmotnoprávne podmienky započítania</h2><p>Základným predpokladom pre splnenie záväzku započítaním je naplnenie hmotnoprávnych podmienok. Tieto podmienky môžeme rozdeliť na všeobecné a osobitné. Všeobecnými podmienkami započítateľnosti sú:</p><ul><li>vzájomnosť pohľadávok</li><li>rovnaký druh plnenia</li><li>spôsobilosť na započítanie</li><li>strany uskutočnili určitý prejav vôle smerujúci k zániku pohľadávok započítaním.</li></ul><p>Vyššie uvedené všeobecné podmienky započítateľnosti vychádzajú z ustanovení § 580 a § 581 Občianskeho zákonníka. Na tieto modifikačne nadväzujú ustanovenia § 358 až § 364 Obchodného zákonníka, či iných príslušných právnych predpisov.</p><h3>Vzájomnosť pohľadávok</h3><p>O vzájomnosti pohľadávok hovoríme vtedy, ak je medzi tými istými stranami každá zo strán veriteľom a dlžníkom zároveň. Podmienka vzájomnosti pohľadávky musí byť splnená bez ohľadu na to, či ide o jednostranný zápočet alebo dohodu o započítaní. Z podmienky vzájomnosti ustanovuje zákon výnimky, a to za účelom upravenia prípadov, kedy došlo k zmene v osobe veriteľa, napr. z titulu postúpenia pohľadávky. V takomto prípade môže dlžník započítať voči postupníkovi(novému veriteľovi) pohľadávky, ktorými disponoval voči postupcovi v čase, keď sa o postúpení pohľadávky z postupcu na postupníka dozvedel.</p><h3>Rovnaký druh plnenia</h3><p>Ďalšou zákonnou podmienkou je, že pohľadávky musia byť rovnakého druhu, t.j. ich obsahom je rovnaké plnenie čo do množstva a druhu. Z hľadiska druhu môže ísť o peňažné pohľadávky, kedy je ich množstvo vyjadrené v peniazoch alebo nepeňažné pohľadávky, kedy je ich množstvo vyjadrené v iných jednotkách, napr. kilogramoch. Najčastejšie ide o pohľadávky na peňažné plnenie, pričom pri obchodno-záväzkových vzťahoch započítaniu nebráni, ak sú pohľadávky v rozdielnych menách, pokiaľ sú tieto meny voľne zameniteľné.</p><h3>Spôsobilosť na započítanie</h3><p>Pohľadávky sú spôsobilé na započítanie vtedy, ak započítanie nie je vylúčené zákonom alebo dohodou účastníkov. Dohoda účastníkov o nemožnosti započítania vzájomných pohľadávok predstavuje zákonnú prekážku. Občiansky zákonník v § 581 ods. 1 a 2 upravuje výluky z jednostranného zápočtu. Podľa § 581 ods. 1 jednostranný zápočet je neprípustný proti pohľadávke na náhradu škody spôsobenej na zdraví, ibaže by išlo o vzájomnú pohľadávku na náhradu škody toho istého druhu.</p><h2>Formy započítania</h2><p>Samotné započítanie môže nastať jednostranným úkonom alebo dohodou strán. Pokiaľ ide o jednostranné započítanie, musia byť splnené všetky uvedené podmienky.</p><h3>Jednostranný zápočet</h3><p>Jednostranný zápočet je účinný voči druhej strane okamihom, kedy sa dostal do jej dispozície. Na druhej strane, v prípade dohody strán je táto dohoda účinná okamihom nadobudnutia účinnosti prijatia návrhu druhou stranou, napr. dohoda nadobúda účinnosť podpisom účastníkov. Avšak samotné účinky započítania sa neviažu na okamih prijatia oznámenia o jednostrannom zápočte či uzatvorenia dohody, ale na okamih stretu pohľadávok, t.j. moment kedy nadobudne splatnosť neskoršia z nich.</p><h3>Dohoda o započítaní</h3><p>Dohodu o započítaní pohľadávok musia podpísať osoby oprávnené za spoločnosť konať. Môže ísť napr. o konateľov spoločností, alebo osoby ktoré sú na to splnomocnené, napr. poverený zamestnanec, ktorému to vyplýva z náplne práce alebo vnútroorganizačných dokumentov.</p><h2>Osobitné prípady započítania</h2><p>Pohľadávku možno započítať aj počas prebiehajúceho súdneho sporu či exekučného konania. Samotná existencia prebiehajúceho konania nemá vplyv na započítateľnosť pohľadávky. Dôležité je, aby boli pohľadávky spôsobilé na započítanie v čase kedy sa stretli, i keď by jedna z pohľadávok nebola neskôr súdom priznaná.</p><p>V prípade pasívnych solidárnych záväzkov, kde na strane dlžníkov vystupuje viacero subjektov a veriteľ je oprávnený uplatniť si nárok na plnenie od ktoréhokoľvek z nich, môže hociktorý z dlžníkov započítať svoju pohľadávku voči pohľadávke veriteľa, a to aj v prípade, ak si veriteľ uplatnil svoj nárok voči inému spoludlžníkovi.</p><h2>Záver</h2><p>Pohľadávky je možné započítať jednostranne pokiaľ sú vzájomné, znejú na rovnaký druh plnenia, sú na započítanie spôsobilé a započítavajúca strana informovala druhú stranu o zámere pohľadávky započítať. Z oznámenia musí byť zrejmé, ktoré pohľadávky sa započítavajú a v akej výške. V prípade, ak sa strany dohodnú, je možné započítať všetky ostatné pohľadávky, pokiaľ je splnená podmienka vzájomnosti, a v občianskoprávnych vzťahov aj podmienka rovnakého druhu plnenia, pričom právny úkon nebol uskutočnený v rozpore so zákonom alebo dohodou strán.</p>",
+                "tags": [
+                    "započítanie pohľadávok",
+                    "obchodné právo",
+                    "občiansky zákonník",
+                    "záväzky"
+                ]
+            }
+        }
+    },
+    "contact": {
+        "title": "Kontaktujte nás",
+        "subtitle": "Sme tu pre vás. Napíšte nám alebo nám zavolajte.",
+        "officeInfo": "Informácie o kancelárii",
+        "formTitle": "Kontaktujte nás",
+        "email": "Email",
+        "phone": "Telefón",
+        "address": "Adresa",
+        "hours": "Otváracie hodiny",
+        "hoursDetail": "Pondelok - Piatok: 8:00 - 17:00, Sobota - Nedeľa: Zatvorené",
+        "form": {
+            "name": "Celé meno *",
+            "email": "Emailová adresa *",
+            "phone": "Telefónne číslo",
+            "service": "Vyberte službu",
+            "message": "Vaša správa *",
+            "submit": "Odoslať správu"
+        },
+        "mapInteraction": "Pre interakciu s mapou kliknite"
+    },
+    "footer": {
+        "company": "Spoločnosť",
+        "services": "Služby",
+        "legal_areas": "Právne oblasti",
+        "other_services": "Ďalšie služby",
+        "home": "Domov",
+        "contact": "Kontakt",
+        "consultation": "Konzultácia",
+        "blog": "Blog",
+        "startups": "Start-upy",
+        "gdpr": "GDPR",
+        "real_estate": "Nehnuteľnosti",
+        "ecommerce": "e-Commerce",
+        "disputes": "Spory",
+        "criminal": "Trestné právo",
+        "financial": "Finančné právo",
+        "debt": "Obchodné právo",
+        "optimization": "Optimalizácie",
+        "due_diligence": "Due Diligence",
+        "need_help": "Potrebujete poradiť?",
+        "all_rights": "Všetky práva vyhradené.",
+        "privacy_policy": "Ochrana osobných údajov",
+        "cookies": "Súbory cookies",
+        "website_by": "webovú stránku vytvorilo AEB Digital"
+    },
+    "location": {
+        "find_us": "Nájdite nás",
+        "contact_us": "Kontaktujte nás",
+        "map_interaction": "Pre interakciu s mapou kliknite"
+    },
+    "privacy": {
+        "title": "Ochrana osobných údajov",
+        "subtitle": "Vyhlásenie o ochrane osobných údajov a podmienkach ich spracúvania",
+        "content": "<p><strong>vydané advokátskou kanceláriou LegisPro, s.r.o.</strong></p><h3>Identifikácia prevádzkovateľa</h3><p>Prevádzkovateľom spracúvania Vašich osobných údajov je advokátska kancelária LegisPro, s.r.o., IČO: 56709901, so sídlom Sládkovičova 1... (im Folgenden auch als „LegisPro\", alebo „My\" v príslušnom gramatickom tvare).</p><p>Vo veciach týkajúcich sa spracúvania a ochrany osobných údajov nás môžete kontaktovať na adrese LegisPro, s.r.o., advokátska kancelária, Sládkovičova 1, 949 01 Nitra alebo e-mailom na e-mailovú adresu dpo@legispro.sk.</p><h3>Prečo spracúvame Vaše osobné údaje?</h3><p>Jedným z našich hlavných cieľov je poskytovať Vám – našim klientom kvalitné právne služby v rámci výkonu advokátskeho povolania...</p><h3>Na aké účely spracúvame Vaše osobné údaje?</h3><div class=\"gdpr-table\"><table><tr><th>Účel</th><th>Právny základ</th><th>Popis</th></tr><tr><td>realizácia výberového konania<br>uzatváranie a plnenie zmlúv o poskytovaní právnych služieb s klientmi<br>uzatváranie a plnenie zmlúv s dodávateľmi tovarov a služieb<br>organizácia webinárov, seminárov a školení</td><td>plnenie zmluvných povinností podľa čl. 6 ods. (1) písm. b) nariadenia</td><td>Za týmto účelom spracúvame Vaše osobné údaje, ak ste s nami uzatvorili zmluvu...</td></tr><tr><td>spracovanie účtovných dokladov<br>evidencia a vybavovanie pošty<br>zastupovanie klientov v konaniach<br>obhajoba v trestnom konaní<br>poskytovanie právnych rád<br>vypracovanie právnych stanovísk<br>spisovanie listín<br>autorizácia zmlúv<br>vedenie spisovej agendy<br>identifikácia podozrivých operácií<br>vybavovanie reklamácií</td><td>plnenie zákonných povinností podľa čl. 6 ods. (1) písm. c) nariadenia</td><td>V určitých prípadoch sme povinní spracúvať Vaše osobné údaje aj pri plnení našich zákonných povinností (účtovníctvo, dane, zákon o advokácii).</td></tr><tr><td>evidencia zmlúv, klientov a obchodných partnerov. Oprávneným záujmom je vedenie prehľadu o uzatvorených zmluvách...<br><br>vedenie ostatnej obchodnej komunikácie...<br><br>posielanie reklamných a marketingových oznámení...</td><td>oprávnený záujem podľa čl. 6 ods. (1) písm. f) nariadenia</td><td>Vaše osobné údaje spracúvame aj na účely našich oprávnených záujmov...</td></tr><tr><td>prieskum trhu a marketing<br>štatistické meranie návštevnosti</td><td>súhlas podľa čl. 6 ods. (1) písm. a) nariadenia</td><td>V týchto prípadoch spracúvame Vaše osobné údaje na základe Vášho slobodne udeleného súhlasu.</td></tr></table></div><h3>Komu Vaše osobné údaje sprístupňujeme?</h3><p>Vaše osobné údaje môžeme poskytnúť našim sprostredkovateľom (účtovníctvo, marketing, hosting), spolupracujúcim advokátom, notárom, znalcom či orgánom verejnej správy. V niektorých prípadoch sú príjemcami aj Google, LLC, Meta, Inc. a LinkedIn Corporation.</p><h3>Aké kategórie osobných údajov spracúvame?</h3><p>Meno, priezvisko, adresa trvalého pobytu, dátum narodenia, e-mail a telefón. V špecifických prípadoch aj rodné číslo, údaje z dokladu totožnosti či informácie o zdravotnom stave.</p><h3>Ako dlho uchovávame Vaše osobné údaje?</h3><p>Uchovávame ich len po dobu nevyhnutnú na dosiahnutie účelu. Pri klientskych spisoch je to spravidla 10 rokov odo dňa splnenia podmienok na archív.</p><h3>Aké sú Vaše práva?</h3><ul><li>Právo na prístup k informáciám</li><li>Právo na opravu</li><li>Právo na vymazanie („právo byť zabudnutý“)</li><li>Právo na obmedzenie spracúvania</li><li>Právo na prenositeľnosť údajov</li><li>Právo vzniesť námietku</li><li>Právo odvolať súhlas</li><li>Právo podať sťažnosť na Úrad na ochranu osobných údajov</li></ul><h3>Chránime Vaše súkromie</h3><p>Používame antivírusové programy, firewally a protokol https://. Naši zamestnanci sú viazaní mlčanlivosťou.</p><h3>Zmeny podmienok</h3><p>Tieto podmienky nadobúdajú platnosť 01.01.2025.</p>"
+    }
+}

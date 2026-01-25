@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Legacy Imports */
+@import "./styles/base.css";
+@import "./styles/header.css";
+@import "./styles/footer.css";
+@import "./styles/location.css";
+@import "./styles/home.css";
+@import "./styles/language-toggle.css";
+@import "./styles/cookies.css";
+@import "./styles/sluzby.css";
+@import "./styles/contact.css";
+@import "./styles/blog.css";
+@import "./styles/ochrana.css";

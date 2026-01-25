@@ -1,0 +1,544 @@
+{
+    "meta": {
+        "title": "LegisPro - Anwaltskanzlei Bratislava",
+        "description": "Professionelle Rechtsdienstleistungen für Unternehmen und Unternehmer. Wir spezialisieren uns auf Start-ups, GDPR, Immobilien, Steuerrecht und Geschäftstransaktionen."
+    },
+    "nav": {
+        "home": "Home",
+        "about": "Über uns",
+        "services": "Dienstleistungen",
+        "contact": "Kontakt",
+        "subtitle": "Anwaltskanzlei",
+        "business_package": "Unternehmenspaket",
+        "training": "Schulungen & Webinare"
+    },
+    "hero": {
+        "title": "Professionelle Rechtsdienstleistungen",
+        "description": "Wir spezialisieren uns auf START UPs, GDPR, Immobilien, Steuerrecht und Geschäftstransaktionen.",
+        "bookBtn": "Kontaktieren Sie uns",
+        "learnMoreBtn": "Mehr erfahren"
+    },
+    "about": {
+        "title": "Anwaltskanzlei LegisPro",
+        "description": "Die Anwaltskanzlei LegisPro erbringt Rechtsdienstleistungen für in- und ausländische Kunden. Wir sind spezialisiert auf die Betreuung und Umsetzung neuer „Green Field\" Projekte sowie Optimierungslösungen für bestehende Prozesse und Strukturen. Ein wichtiger Teil unserer Agenda ist der Bereich Finanzrecht und Unternehmensfinanzen. Darüber hinaus befassen wir uns auch mit GDPR, Handelsrecht, Streitigkeiten und Strafrecht.",
+        "founder": {
+            "name": "JUDr. Ing. Jozef Kubaský – Gründungspartner",
+            "description": "Advokat und Ökonom. Absolvent der juristischen Fakultät der Comenius-Universität in Bratislava und der Fakultät für Wirtschaft und Management der Slowakischen Landwirtschaftsuniversität in Nitra. Ich verfüge über 18 Jahre Berufserfahrung in internationalen Konzernen. Ich spezialisiere mich auf „Green Field\"-Projekte zur Schaffung neuer Strukturen oder zur Neuzuweisung bestehender Strukturen ausländischer Unternehmen in die Slowakische Republik. Mein Fachgebiet sind vor allem Start-ups, Green Fields, Optimierungslösungen, Finanz- und Wirtschaftsrecht. Ich spreche Französisch, Englisch und Deutsch."
+        }
+    },
+    "services": {
+        "title": "Dienstleistungen",
+        "subtitle": "Wir bieten umfassende Rechtsdienstleistungen für Unternehmen und Unternehmer. Wir spezialisieren uns auf Start-ups, GDPR, Immobilien und Wirtschaftsrecht.",
+        "exploreBtn": "Alle erkunden",
+        "moreInfoBtn": "Weitere Informationen",
+        "items": {
+            "commercial-law": {
+                "title": "Handelsrecht",
+                "description": "Wir bieten umfassende Dienstleistungen im Bereich des Handelsrechts, von der Unternehmensgründung bis hin zu komplexen Transaktionen und Streitigkeiten.",
+                "mainContentTitle": "Dienstleistungen im Handelsrecht",
+                "category": "Umfassende handelsrechtliche Dienstleistungen",
+                "image": "/sources/images/debt-collection-1.jpg",
+                "features": [
+                    {
+                        "title": "Forderungseintreibung",
+                        "description": "Wir verfügen über langjährige Erfahrung bei der Eintreibung von Forderungen für unsere Mandanten auf dem Gebiet der Slowakischen Republik und der Europäischen Union. Der Erfolg der Forderungseintreibung hängt auch von einer sofortigen und intensiven Kommunikation mit dem Schuldner ab. In solchen Fällen stimmt der Schuldner oft einer der von uns vorgeschlagenen und bewährten Methoden zur Schuldentilgung zu."
+                    },
+                    {
+                        "title": "Gründung von Handelsgesellschaften",
+                        "description": "Wir bewerten Ihr Geschäftsmodell, schlagen Ihnen die geeignetste Rechtsform vor und gründen Ihre neue Gesellschaft professionell."
+                    },
+                    {
+                        "title": "Liquidation von Handelsgesellschaften",
+                        "description": "Wir helfen Ihnen bei der Beendigung Ihrer Geschäftstätigkeit und übernehmen die Kommunikation mit Ihrem Buchhalter, damit Ihr Unternehmen so schnell wie möglich aus dem Handelsregister gelöscht wird."
+                    },
+                    {
+                        "title": "Verschmelzung von Handelsgesellschaften (Fusionen)",
+                        "description": "Betreiben Sie Geschäfte unter mehreren Gesellschaften, die denselben Unternehmensgegenstand haben? Müssen wir Ihr Geschäftsmodell optimieren, um mögliche Sanktionen der Finanzverwaltung zu vermeiden? Wir bereiten für Sie ein Fusionsprojekt Ihrer Gesellschaften vor und führen alle notwendigen Schritte durch, um mögliche Risiken zu vermeiden."
+                    },
+                    {
+                        "title": "Verkauf eines Unternehmens oder eines Teils davon",
+                        "description": "Müssen Sie Ihr Unternehmen oder einen Teil davon verkaufen? Zögern Sie nicht, uns zu kontaktieren."
+                    },
+                    {
+                        "title": "Einreichung von Konkursanträgen",
+                        "description": "Sind Sie Gläubiger und haben einen Schuldner, der Ihre Forderungen nicht bezahlt? Wir prüfen die Möglichkeit, einen Konkursantrag gegen Ihren Schuldner zu stellen, melden gegebenenfalls Ihre Forderungen an und vertreten Sie während des gesamten Prozesses. Sind Sie Schuldner und müssen feststellen, ob für Sie eine Insolvenzantragspflicht entstanden ist? Wir führen eine Analyse Ihrer Verbindlichkeiten durch, helfen Ihnen bei der Einreichung des Konkursantrags und begleiten Sie durch den gesamten Prozess."
+                    },
+                    {
+                        "title": "Eintragung in das Register der Partner des öffentlichen Sektors",
+                        "description": "Müssen Sie sich als Partner des öffentlichen Sektors registrieren lassen? Als berechtigte Person registrieren wir Sie und führen in regelmäßigen Abständen Verifizierungen durch."
+                    },
+                    {
+                        "title": "Registrierung des Aktionärsverzeichnisses (CDCP)",
+                        "description": "Wir haben umfangreiche Erfahrung mit Aktiengesellschaften. Wir stehen in regelmäßigem Kontakt mit dem Zentralverwahrer für Wertpapiere. Wir vertreten Sie während des gesamten Prozesses vom Abschluss des Vertrags über die Führung des Aktionärsverzeichnisses bis zur Registrierung des Aktionärsverzeichnisses beim Zentralverwahrer."
+                    }
+                ]
+            },
+            "financial-law": {
+                "title": "Steuer- und Finanzrecht",
+                "description": "Wir verstehen Unternehmen und Unternehmensfinanzierung. Wir haben jahrelange Erfahrung in Unternehmensfinanzierung, Buchhaltung und Steuern.",
+                "mainContentTitle": "Steueroptimierung und Beratung",
+                "mainContentIntro": "Wir bewerten Ihr Geschäftsmodell und schlagen Maßnahmen für dessen steuerlich-wirtschaftliche Optimierung vor. Wir vertreten Sie in Verwaltungsverfahren vor den Finanzämtern.",
+                "category": "Steuer- und Finanzberatung",
+                "image": "/sources/images/tax-law-1.jpg",
+                "features": [
+                    {
+                        "title": "Steueroptimierung",
+                        "description": "Wir analysieren Ihr Geschäftsmodell und schlagen legale Wege zur Optimierung der Steuerlast unter Einhaltung der Gesetzgebung vor."
+                    },
+                    {
+                        "title": "Unternehmensfinanzierung",
+                        "description": "Wir bieten Beratung im Bereich Unternehmensfinanzierung, Transaktionsstrukturierung und Finanzplanung."
+                    },
+                    {
+                        "title": "Vertretung vor der Finanzverwaltung",
+                        "description": "Wir vertreten Sie in Verwaltungsverfahren vor den Finanzämtern, helfen bei Steuerprüfungen und Berufungen."
+                    },
+                    {
+                        "title": "Verrechnungspreise",
+                        "description": "Beratung im Bereich Verrechnungspreise, Dokumentationserstellung und Vertretung bei Prüfungen."
+                    }
+                ]
+            },
+            "criminal-law": {
+                "title": "Strafrecht",
+                "description": "Unsere Anwaltskanzlei befasst sich auch mit der Vertretung von Mandanten in Strafverfahren, insbesondere bei steuerlichen und anderen wirtschaftlichen Straftaten.",
+                "mainContentTitle": "Verteidigung in Strafverfahren",
+                "mainContentIntro": "Zögern Sie nicht, sich an uns zu wenden. Wir bieten professionelle Verteidigung und Vertretung in Strafsachen mit Spezialisierung auf Wirtschaftsdelikte.",
+                "category": "Verteidigung in Strafverfahren",
+                "image": "/sources/images/criminal-law-1.jpg",
+                "features": [
+                    {
+                        "title": "Steuerdelikte",
+                        "description": "Wir spezialisieren uns auf die Verteidigung in Fällen von Steuerdelikten, Steuerverkürzung, Nichtabführung von Steuern und ähnlichen Straftaten."
+                    },
+                    {
+                        "title": "Wirtschaftsdelikte",
+                        "description": "Vertretung bei Wirtschaftsdelikten wie Betrug, Amtsmissbrauch, Bestechung und Korruption."
+                    },
+                    {
+                        "title": "Strafverfahren",
+                        "description": "Umfassende Verteidigung in allen Phasen des Strafverfahrens von der Ermittlung bis zur Berufung an das höhere Gericht."
+                    },
+                    {
+                        "title": "Präventive Beratung",
+                        "description": "Wir bieten auch präventive Beratung zur Verhütung strafrechtlicher Probleme in Ihrem Unternehmen."
+                    }
+                ]
+            },
+            "start-ups-greenfield-projects": {
+                "title": "Start-ups & Greenfield-Projekte",
+                "description": "Wir lieben neue und interessante Ideen. Wir helfen Ihnen dabei, Ihre neuen Projekte zu starten, zu entwickeln und auszubauen.",
+                "mainContentTitle": "Komplexe Dienstleistungen für neue Projekte",
+                "mainContentIntro": "Wir begleiten Sie durch den oft komplexen und zeitaufwändigen Prozess, damit Sie sich auf das Wesentliche Ihres Projekts konzentrieren können und wir alles andere für Sie lösen.",
+                "category": "Start neuer Projekte",
+                "image": "/sources/greenfield.jpg",
+                "features": [
+                    {
+                        "title": "Genehmigungen und Lizenzen",
+                        "description": "Falls Ihr Projekt spezifische Genehmigungen erfordert, vertreten wir Sie in Verfahren vor den entsprechenden Staatsverwaltungsorganen und helfen Ihnen bei der Erstellung der erforderlichen Dokumente zur Erlangung der betreffenden Genehmigung."
+                    },
+                    {
+                        "title": "Schutz geistigen Eigentums",
+                        "description": "Wir gewährleisten, dass Ihr geistiges Eigentum, die Ergebnisse Ihres Denkens und Ihrer Kreativität, wie z.B. Patente, Verfahren, Marken, Logos, Programme usw., und die damit verbundenen Rechte vor Missbrauch durch die Konkurrenz geschützt werden."
+                    },
+                    {
+                        "title": "Beschaffung von Investitionen",
+                        "description": "Falls Ihr Projekt Anfangsinvestitionen benötigt, helfen wir Ihnen bei deren Beschaffung. Wir kommunizieren täglich auf Französisch, Englisch oder Deutsch, gerne helfen wir Ihnen bei der Ansprache Ihres zukünftigen Geschäftspartners und übernehmen die gesamte weitere Kommunikation bis zum erfolgreichen Abschluss des Vertragsverhältnisses."
+                    },
+                    {
+                        "title": "Geschäftsmodell und Optimierung",
+                        "description": "Wir beraten Sie bei der Gestaltung Ihres Geschäftsmodells, damit es so effektiv wie möglich ist, und zwar nicht nur rechtlich, sondern auch steuerlich-wirtschaftlich."
+                    }
+                ]
+            },
+            "real-estate": {
+                "title": "Immobilien",
+                "description": "Sie benötigen Hilfe beim Kauf oder Verkauf einer Immobilie? Wir haben langjährige Erfahrung im Immobilienmarkt.",
+                "mainContentTitle": "Sichere Immobilientransaktionen",
+                "mainContentIntro": "Wir überprüfen jede Transaktion immer sehr sorgfältig und verfolgen ihren gesamten Verlauf. Oft gelang es uns, unsere Kunden zu schützen und ihnen erhebliche Mittel zu sparen.",
+                "category": "Rechtsdienstleistungen im Immobilienbereich",
+                "image": "/sources/images/real-estate-1.jpg",
+                "features": [
+                    {
+                        "title": "Due Diligence für Immobilien",
+                        "description": "Wir prüfen den Bebauungsplan der jeweiligen Zone, das Vorhandensein von Vollstreckungstiteln und andere Umstände, die Ihre Entscheidung beeinflussen können, gründlich."
+                    },
+                    {
+                        "title": "Rechtsvertretung",
+                        "description": "Wir begleiten Sie durch den gesamten Prozess des Kaufs oder Verkaufs Ihrer Immobilie, damit Sie und Ihr Eigentum bestmöglich geschützt sind."
+                    },
+                    {
+                        "title": "Dokumentenprüfung",
+                        "description": "Oft verschweigt der Verkäufer bestimmte Tatsachen, die erst bei einer eingehenderen Untersuchung der Dokumentation und Register festgestellt werden können."
+                    },
+                    {
+                        "title": "Vertragsdokumentation",
+                        "description": "Wir erstellen alle notwendigen Verträge und Dokumente für eine sichere Immobilienübertragung unter Schutz Ihrer Interessen."
+                    }
+                ]
+            },
+            "due-diligence": {
+                "title": "Due Diligence",
+                "description": "Planen Sie eine bedeutende Geschäftstransaktion? Wir verstehen den Bedarf nach qualitativen, zuverlässigen und vollständigen Informationen.",
+                "mainContentTitle": "Umfassende Due Diligence",
+                "mainContentIntro": "Wir verstehen den Bedarf nach qualitativen, zuverlässigen und vollständigen Informationen zur Bewertung der Folgen einer solchen Transaktion und der Bonität oder Vertrauenswürdigkeit des Geschäftspartners selbst.",
+                "category": "Analyse von Geschäftstransaktionen",
+                "image": "/sources/images/due-diligence-1.jpg",
+                "features": [
+                    {
+                        "title": "Rechtliche Due Diligence",
+                        "description": "Gründliche Analyse der rechtlichen Situation des Unternehmens, der Vertragsbeziehungen, Rechtsstreitigkeiten und rechtlichen Risiken."
+                    },
+                    {
+                        "title": "Finanzielle Due Diligence",
+                        "description": "Analyse der finanziellen Situation, des Rechnungswesens, der steuerlichen Verpflichtungen und finanziellen Risiken der Zielgesellschaft."
+                    },
+                    {
+                        "title": "Kommerzielle Due Diligence",
+                        "description": "Bewertung des Geschäftsmodells, der Marktstellung, der Wettbewerbsposition und der Wachstumsperspektiven."
+                    },
+                    {
+                        "title": "Umfassende Berichte",
+                        "description": "Den gesamten Prozess können Sie uns überlassen, wir helfen Ihnen gerne dabei und erstellen detaillierte Berichte mit Empfehlungen."
+                    }
+                ]
+            },
+            "gdpr": {
+                "title": "GDPR",
+                "description": "Wir erstellen maßgeschneiderte GDPR-Dokumentation und gewährleisten die Einhaltung der aktuellen Rechtsvorschriften.",
+                "mainContentTitle": "Umfassende GDPR-Lösungen",
+                "mainContentIntro": "Der Schutz personenbezogener Daten ist heute unerlässlich. Wir helfen Ihnen, alle GDPR-Anforderungen zu erfüllen.",
+                "category": "Schutz personenbezogener Daten",
+                "image": "/sources/images/gdpr-special-1.jpg",
+                "features": [
+                    {
+                        "title": "Maßgeschneiderte GDPR-Dokumentation",
+                        "description": "Wir erstellen maßgeschneiderte GDPR-Dokumentation, die genau den Bedürfnissen und Spezifikationen Ihres Unternehmens entspricht."
+                    },
+                    {
+                        "title": "Schulungen und Bildung",
+                        "description": "Wir schulen Sie und Ihre Mitarbeiter in Datenschutzfragen. Wir stellen sicher, dass jeder seine Pflichten und Verantwortlichkeiten versteht."
+                    },
+                    {
+                        "title": "Aktualisierung der Richtlinien",
+                        "description": "Wir stellen sicher, dass Ihre internen Richtlinien immer mit den aktuellen Rechtsvorschriften übereinstimmen. Wir überwachen kontinuierlich Änderungen in der Gesetzgebung und passen die Dokumentation entsprechend an."
+                    },
+                    {
+                        "title": "Vertretung vor Behörden",
+                        "description": "Wir vertreten Sie in Verfahren vor der Datenschutzbehörde bei allen Problemen oder Kontrollen."
+                    },
+                    {
+                        "title": "DSB-Dienstleistungen",
+                        "description": "Wir bieten Dienstleistungen als Datenschutzbeauftragte (DSB) für Unternehmen, die diese Funktion gesetzlich benötigen."
+                    }
+                ],
+                "checklist": [
+                    {
+                        "title": "Verzeichnis von Verarbeitungstätigkeiten",
+                        "description": "Führung eines vollständigen Verzeichnisses aller Verarbeitungstätigkeiten in Übereinstimmung mit der GDPR."
+                    },
+                    {
+                        "title": "Datenschutzhinweise",
+                        "description": "Erstellung transparenter Datenschutzhinweise für alle Arten der Erhebung personenbezogener Daten."
+                    },
+                    {
+                        "title": "Einwilligungen der betroffenen Personen",
+                        "description": "Sicherstellung gültiger und dokumentierter Einwilligungen in Übereinstimmung mit GDPR-Anforderungen."
+                    },
+                    {
+                        "title": "Verfahren für die Ausübung von Rechten",
+                        "description": "Erstellung effizienter Verfahren für die Ausübung der Rechte betroffener Personen."
+                    },
+                    {
+                        "title": "Datenschutz-Folgenabschätzung",
+                        "description": "Durchführung von DSFA für hochriskante Verarbeitungstätigkeiten."
+                    },
+                    {
+                        "title": "Vorfallmanagement",
+                        "description": "Erstellung von Verfahren für die Meldung und Behandlung von Datenschutzverletzungen."
+                    }
+                ]
+            },
+            "litigations": {
+                "title": "Rechtsstreitigkeiten",
+                "description": "Wir vertreten Sie bei der Geltendmachung Ihrer zivilrechtlichen oder handelsrechtlichen Ansprüche.",
+                "mainContentTitle": "Professionelle Vertretung in Streitigkeiten",
+                "mainContentIntro": "Gerne besprechen wir mit Ihnen den gegebenen Fall und beurteilen seine Erfolgsaussichten. Im Interesse der Effizienz und nicht zuletzt zur Kostenersparnis unserer Mandanten versuchen wir immer zunächst, die Angelegenheit außergerichtlich zu lösen.",
+                "category": "Vertretung in Streitfällen",
+                "image": "/sources/images/litigation-1.jpg",
+                "features": [
+                    {
+                        "title": "Zivilrechtliche Streitigkeiten",
+                        "description": "Vertretung in zivilrechtlichen Streitigkeiten einschließlich Vertragsstreitigkeiten, Schadenersatz und anderen zivilrechtlichen Angelegenheiten."
+                    },
+                    {
+                        "title": "Handelsrechtliche Streitigkeiten",
+                        "description": "Lösung von Handelsstreitigkeiten, Vertragsverletzungen, Problemen mit Lieferanten und Abnehmern, Wettbewerbsstreitigkeiten."
+                    },
+                    {
+                        "title": "Außergerichtliche Lösung",
+                        "description": "Wir bemühen uns immer zuerst um eine außergerichtliche Streitbeilegung, was Zeit und Kosten spart und Geschäftsbeziehungen erhält."
+                    },
+                    {
+                        "title": "Gerichtsverfahren",
+                        "description": "Wenn ein Gerichtsverfahren unvermeidlich ist, bieten wir umfassende Vertretung in allen Instanzen des Gerichtsverfahrens."
+                    }
+                ]
+            },
+            "optimization-solutions": {
+                "title": "Optimierungslösungen",
+                "description": "Nicht immer ist sich ein Unternehmen bewusst, dass es seine Geschäftsprozesse optimieren oder aktualisieren muss.",
+                "mainContentTitle": "Audit und Prozessoptimierung",
+                "mainContentIntro": "Bei der Durchführung des Audits zeigt sich jedoch oft seine Berechtigung. Das sich ständig ändernde Marktumfeld erfordert unsere Aufmerksamkeit.",
+                "category": "Audit- und Prozessoptimierung",
+                "image": "/sources/images/training-1.jpg",
+                "features": [
+                    {
+                        "title": "Audit interner Prozesse",
+                        "description": "Wir führen ein Audit Ihrer internen Prozesse durch, analysieren deren Effizienz und identifizieren Verbesserungsbereiche."
+                    },
+                    {
+                        "title": "Vorschlag von Optimierungslösungen",
+                        "description": "Wir schlagen Ihnen konkrete Optimierungslösungen vor und berechnen die potenziellen Einsparungen, die Sie erzielen können."
+                    },
+                    {
+                        "title": "Vertragsanalyse",
+                        "description": "Wir analysieren Ihre bestehenden Verträge hinsichtlich ihrer Vorteilhaftigkeit, Kündigungsmöglichkeiten oder Änderungen."
+                    }
+                ]
+            },
+            "ecommerce": {
+                "title": "e-Commerce",
+                "description": "Wir erstellen für Sie umfassende und an Ihre Bedürfnisse angepasste Dokumentation für Ihr neues Internet-Projekt.",
+                "mainContentTitle": "Umfassende e-Commerce-Lösungen",
+                "mainContentIntro": "Sie müssen sich nicht damit befassen, was die Allgemeinen Geschäftsbedingungen enthalten müssen, wie eine Bestellung oder ein Reklamationsformular aussehen muss. Wir erstellen für Sie alle erforderlichen Dokumente, einschließlich GDPR.",
+                "category": "Rechtsdienstleistungen für Online-Business",
+                "image": "/sources/images/ecommerce-1.jpg",
+                "features": [
+                    {
+                        "title": "Allgemeine Geschäftsbedingungen",
+                        "description": "Wir erstellen maßgeschneiderte AGB für Ihren E-Shop, die den aktuellen gesetzlichen Bestimmungen entsprechen und Ihre Interessen schützen."
+                    },
+                    {
+                        "title": "GDPR für E-Shops",
+                        "description": "Vollständige GDPR-Dokumentation speziell angepasst für die Bedürfnisse des Online-Verkaufs und die Verarbeitung personenbezogener Kundendaten."
+                    },
+                    {
+                        "title": "Reklamationsordnung",
+                        "description": "Professionelle Reklamationsordnung und Formulare, die eine ordnungsgemäße Bearbeitung von Reklamationen und Schutz vor unbegründeten Ansprüchen gewährleisten."
+                    },
+                    {
+                        "title": "Marketing-Unterstützung",
+                        "description": "Durch unsere Partnergesellschaft helfen wir Ihnen gerne bei der Werbung und Bewerbung Ihres neuen E-Shops oder Ihrer Website."
+                    }
+                ]
+            },
+            "business-package": {
+                "title": "Unternehmenspaket",
+                "description": "Damit Sie nirgendwo mehr hinfahren müssen - umfassende Dienstleistungen für Jungunternehmer unter einem Dach.",
+                "mainContentTitle": "Komplexe Dienstleistungen für Jungunternehmer",
+                "mainContentIntro": "Beginnen Sie mit der Unternehmensgründung? Ob als Handelsgesellschaft oder Selbstständige, wir stellen Ihnen unter einem Dach alles zur Verfügung, was Sie für den Start Ihres Projekts benötigen. Wir beraten Sie und schlagen die vorteilhafteste Form Ihrer Geschäftstätigkeit vor.",
+                "category": "Business",
+                "image": "/sources/images/tax-law-1.jpg",
+                "features": [
+                    {
+                        "title": "Gesellschaftsgründung",
+                        "description": "Wir gründen Ihre neue Gesellschaft und bieten Ihnen umfassende Rechtsberatung bei der Auswahl der optimalen Form der Geschäftstätigkeit."
+                    },
+                    {
+                        "title": "Wirtschaftsdienstleistungen",
+                        "description": "Wir bieten professionelle Wirtschaftsdienstleistungen wie Buchhaltung und Lohnabrechnung, Steuerberatung, Erstellung von Abschlüssen und Umsatzsteuer."
+                    },
+                    {
+                        "title": "20-jährige Erfahrung",
+                        "description": "Nutzen Sie unsere mehr als 20-jährige Erfahrung im Bereich Unternehmensfinanzen und umfassende Beratung."
+                    },
+                    {
+                        "title": "Geschäftsführer und Gesellschafter",
+                        "description": "Sind Sie Geschäftsführer einer Gesellschaft geworden? Aus dieser Position ergeben sich für Sie bestimmte Rechte und Pflichten. Wir richten Ihre internen Prozesse ein und helfen Ihnen, sich in dieser Problematik zu orientieren."
+                    },
+                    {
+                        "title": "Handelsrecht",
+                        "description": "Haben Sie unbezahlte Rechnungen oder andere Forderungen? Wir beraten Sie, welche Möglichkeiten Sie haben und wie Sie vorgehen können, um den geschuldeten Betrag einschließlich Zubehör erfolgreich einzutreiben."
+                    }
+                ]
+            },
+            "training-webinars": {
+                "title": "Schulungen & Webinare",
+                "description": "Professionelle Rechtsschulungen, die auf Ihre Bedürfnisse zugeschnitten sind, in Form von persönlichen Vorträgen oder Webinaren.",
+                "mainContentTitle": "Fachspezifische Schulungen nach Maß",
+                "mainContentIntro": "Wir bieten Ihnen gerne bereits vorbereitete Schulungen an oder entwickeln neue Themen aus den Bereichen Zivil-, Handels-, Arbeits-, Finanzrecht oder andere Themen nach Ihrem Bedarf. Die Themen bereiten wir für Sie in Form von persönlichen Vorträgen oder Webinaren auf.",
+                "category": "Bildung",
+                "image": "/sources/images/contact-office-1.jpg",
+                "features": [
+                    {
+                        "title": "Zivilrecht",
+                        "description": "Umfassende Schulungen im Bereich des Zivilrechts einschließlich Vertragsrecht, Eigentumsverhältnisse und Schadenersatzhaftung."
+                    },
+                    {
+                        "title": "Handelsrecht",
+                        "description": "Schulungen zu Handelsverträgen, Handelsgesellschaften und deren Führung, Fusionen und Akquisitionen."
+                    },
+                    {
+                        "title": "Arbeitsrecht",
+                        "description": "Aktuelle Themen des Arbeitsrechts, Gesetzesänderungen, ordnungsgemäße Personalverwaltung und Lösung arbeitsrechtlicher Streitigkeiten."
+                    },
+                    {
+                        "title": "Finanzrecht",
+                        "description": "Schulungen im Steuerrecht, Transfer Pricing, Optimierung der Steuerlast und Kommunikation mit der Finanzverwaltung."
+                    },
+                    {
+                        "title": "Flexible Formen",
+                        "description": "Schulungen führen wir in Form von persönlichen Vorträgen in Ihrem Betrieb oder als Online-Webinare je nach Ihren Bedürfnissen durch."
+                    }
+                ]
+            }
+        }
+    },
+    "process": {
+        "title": "Unser Vorgehen",
+        "description": "Unsere Arbeit basiert auf einem systematischen Ansatz, der die besten Ergebnisse für unsere Mandanten gewährleistet. Vom ersten Kontakt bis zum Abschluss des Falls begleiten wir Sie durch jeden Schritt des Rechtsprozesses.",
+        "ctaBtn": "Termin vereinbaren",
+        "steps": [
+            {
+                "id": "01",
+                "title": "Erstberatung",
+                "description": "Wir hören uns Ihre Bedürfnisse an und bewerten Ihr rechtliches Problem. Unverbindlich stellen wir Ihnen mögliche Lösungen vor."
+            },
+            {
+                "id": "02",
+                "title": "Analyse und Strategie",
+                "description": "Wir erstellen eine detaillierte Analyse Ihres Falls und schlagen die beste Rechtsstrategie zur Erreichung Ihrer Ziele vor."
+            },
+            {
+                "id": "03",
+                "title": "Umsetzung und Ergebnis",
+                "description": "Wir vertreten Ihre Interessen professionell und bearbeiten Ihren Fall bis zum erfolgreichen Abschluss."
+            }
+        ]
+    },
+    "vision": {
+        "title": "Unsere Vision und Werte",
+        "description": "Wir sind seit Jahren für Sie da und unsere Erfahrung spricht für sich. Vertrauen Sie Experten, die Ihre Bedürfnisse verstehen und Ihnen die besten Lösungen bieten.",
+        "values": [
+            "Professionalität und Fachkompetenz",
+            "Transparenz in allen Schritten",
+            "Individueller Ansatz für Mandanten",
+            "Langfristige Partnerschaft",
+            "Effektive Lösungen"
+        ]
+    },
+    "blog": {
+        "title": "Blog",
+        "description": "Aktuelle Rechtsthemen und praktische Tipps von Experten.",
+        "exploreBtn": "Alle erkunden",
+        "readMore": "Vollständigen Artikel lesen",
+        "featuredLabel": "Empfohlen",
+        "recentPosts": "Neueste Artikel",
+        "posts": {
+            "danove-kontroly-transfer-pricing": {
+                "title": "Steuerprüfung und häufigste Mängel bei der Verrechnungspreisbestimmung",
+                "description": "Zweck der Steuerprüfung ist die Überprüfung der Verfahren des Steuerpflichtigen bei der Bestimmung von Verrechnungspreisen, d.h. ob er eine geeignete Verrechnungspreismethode gewählt hat, ob er über ausreichende Dokumentation zu den überprüften Transaktionen verfügt.",
+                "excerpt": "Zweck der Steuerprüfung ist die Überprüfung der Verfahren des Steuerpflichtigen bei der Bestimmung von Verrechnungspreisen, d.h. ob er eine geeignete Verrechnungspreismethode gewählt hat, ob er über ausreichende Dokumentation zu den überprüften Transaktionen verfügt, ob er transparent Erklärungen zu einzelnen Fällen abgeben kann, ob er die richtige Basis für die Vergleichbarkeitsanalyse gewählt hat und somit ausreichend die Anwendung des Fremdvergleichsgrundsatzes bei abhängigen Transaktionen nachweisen kann, die er im betreffenden Steuerjahr durchgeführt hat.",
+                "category": "Steuerrecht",
+                "date": "15. November 2024",
+                "readingTime": "8 Min. Lesezeit",
+                "image": "/sources/images/tax-law-1.jpg",
+                "content": "<h2>Zweck und Ablauf der Steuerprüfung</h2><p>Der allgemeine Ablauf der Steuerprüfung ist in den §§ 44 bis 47 des Gesetzes Nr. 563/2009 Slg. über die Steuerverwaltung (Steuerordnung) und über Änderungen und Ergänzungen einiger Gesetze geregelt. Zweck der Steuerprüfung ist die Überprüfung der Verfahren des Steuerpflichtigen bei der Bestimmung von Verrechnungspreisen, d.h. ob er eine geeignete Verrechnungspreismethode gewählt hat, ob er über ausreichende Dokumentation zu den überprüften Transaktionen verfügt, ob er transparent Erklärungen zu einzelnen Fällen abgeben kann, ob er die richtige Basis für die Vergleichbarkeitsanalyse gewählt hat und somit ausreichend die Anwendung des Fremdvergleichsgrundsatzes bei abhängigen Transaktionen nachweisen kann, die er im betreffenden Steuerjahr durchgeführt hat.</p><h3>Beginn und Ankündigung der Steuerprüfung</h3><p>Gemäß § 44 der Steuerordnung beginnt die Steuerprüfung an dem Tag, den der Steuerverwalter bestimmt und über den er den Steuerpflichtigen mittels einer Mitteilung informiert. Die Mitteilung muss außerdem den Ort der Prüfung, die Art der zu prüfenden Steuer, den Prüfungszeitraum und die Frist für die Vorlage der angeforderten Dokumentation sowie eine Belehrung über die Folgen der Nichteinhaltung enthalten. Der Steuerverwalter kann eine Steuerprüfung auch ohne Ankündigung beginnen, wenn der Verdacht besteht, dass der Steuerpflichtige für die Beurteilung des Falls erforderliche Unterlagen verändern oder vernichten wird.</p><p>Wenn der Steuerverwalter während der laufenden Steuerprüfung Unstimmigkeiten auch in anderen als den in der Mitteilung genannten Zeiträumen feststellt, ist er berechtigt, die Prüfung auch auf diese Zeiträume auszudehnen.</p><h3>Pflichten des Steuerpflichtigen während der Prüfung</h3><p>Der Steuerpflichtige ist verpflichtet, dem Steuerverwalter die Durchführung der Prüfung zu ermöglichen, ihm Zugang zu den Räumlichkeiten und seiner Software zu gewähren, mitzuwirken und ihm Materialien auch außerhalb seiner Räumlichkeiten zur Verfügung zu stellen, wenn der Steuerverwalter dies verlangt.</p><p>Während der Prüfung überprüft der Steuerverwalter die vorgelegten Dokumente auf ihre Richtigkeit, Vollständigkeit und Wahrheit. Wenn er Unstimmigkeiten feststellt, teilt er diese dem Steuerpflichtigen mit und fordert ihn auf, sich dazu zu äußern. Der Steuerpflichtige kann alle Unterlagen vorlegen und Beweise sowie Erklärungen zum jeweiligen Fall abgeben, die der Steuerverwalter anschließend bewertet. Reichen ihm die Unterlagen oder Erklärungen nicht aus, fordert er den Steuerpflichtigen zur Ergänzung auf.</p><h2>Am häufigsten geprüfte Bereiche</h2><p>Hinsichtlich der geprüften Bereiche sind Dienstleistungen, Waren und immaterielle Vermögenswerte am häufigsten Gegenstand von Prüfungen. Des Weiteren gehören die Kostenverteilung zwischen verbundenen Unternehmen und die Konzernfinanzierung dazu.</p><p>Die Prüfung selbst erfolgt anhand von Stichproben, die der Steuerverwalter auswählt und den Steuerpflichtigen zur Vorlage auffordert. Der Grund für die Auswahl einer bestimmten geprüften Transaktionsstichprobe kann deren Häufigkeit im Rahmen der Gesamttätigkeit des Steuerpflichtigen sein. Die Auswahl der Stichprobe kann auch durch Verdachtsmomente des Steuerverwalters beeinflusst werden, beispielsweise wenn der Steuerpflichtige sein Geschäftsmodell ändert oder wenn er im Jahresvergleich von Gewinn in Verlust wechselt. Steuerverwalter eröffnen Steuerprüfungen üblicherweise auch bei problematischen Steuerpflichtigen, beispielsweise bei solchen, bei denen in der Vergangenheit Nachforderungen festgesetzt wurden, oder bei solchen, die risikoreiche Transaktionen durchführen.</p><h3>Was Steuerverwalter prüfen</h3><p>Während der Steuerprüfung kontrollieren die Steuerverwalter insbesondere:</p><ul><li>ob der Leistungsgegenstand tatsächlich geliefert oder die Dienstleistungen erbracht wurden,</li><li>ob das Unternehmen den Leistungsgegenstand oder die erbrachten Dienstleistungen tatsächlich benötigte, d.h. der Steuerverwalter stellt sich die Frage, ob das geprüfte Subjekt eine solche Dienstleistung auch einer unabhängigen Person erbracht hätte,</li><li>ob die Preise im Einklang mit dem Fremdvergleichsgrundsatz festgelegt wurden.</li></ul><h2>Am häufigsten festgestellte Probleme</h2><p>Zu den am häufigsten festgestellten Problemen während Steuerprüfungen gehören:</p><ul><li><strong>Unfähigkeit des Unternehmens, die zwischen verbundenen Personen erbrachten Dienstleistungen ausreichend zu erklären;</strong> der Steuerpflichtige muss zweifelsfrei nachweisen, dass die erbrachte Dienstleistung ihre Berechtigung hatte, d.h. mit den Bedürfnissen des Empfängers zusammenhängt und im Einklang mit dem Fremdvergleichsgrundsatz steht,</li><li><strong>unzureichende oder nicht existierende Verrechnungspreisdokumentation,</strong></li><li><strong>schlechte Qualität der Verrechnungspreisdokumentation,</strong></li><li><strong>Diskrepanz zwischen dem Inhalt der Dokumentation und dem Tätigkeitsgegenstand des Steuerpflichtigen sowie dessen Erklärungen,</strong></li><li><strong>unzureichende Untermauerung der Vergleichbarkeitsfaktoren,</strong> d.h. unzureichende Funktions- und Risikoanalyse, z.B. zu kleine oder ungeeignet gewählte Vergleichsbasis,</li><li><strong>unzureichende Erklärung der niedrigeren Gewinnhöhe des Unternehmens im Vergleich zu anderen Unternehmen in der Gruppe,</strong></li><li><strong>Nichtexistenz von Verträgen und anderen Belegen, die das gewählte Vorgehen des Steuerpflichtigen untermauern würden,</strong></li><li><strong>Unfähigkeit, dem Steuerverwalter die geforderten Informationen über verbundene Personen zu liefern,</strong></li><li><strong>Langsamkeit, Problematik oder Unfähigkeit des Steuerpflichtigen, auf diverse Anforderungen des Steuerverwalters zu reagieren.</strong></li></ul><p>Auf den Verlauf und das Ergebnis der Steuerprüfung hat zweifellos auch die Einstellung des geprüften Steuerpflichtigen zur Problematik der Verrechnungspreise Einfluss. Wenn der Steuerverwalter sieht, dass der Steuerpflichtige im Rahmen des Dokumentationsprozesses maximale Anstrengungen unternommen hat und sich diese Anstrengung in einer hohen Qualität der vorgelegten Dokumentation widerspiegelt, kann dies den Verlauf der Steuerprüfung beschleunigen, beispielsweise durch Zustimmung zur verwendeten Methode oder Akzeptanz der Unternehmenserklärungen ohne Notwendigkeit weiterer Untersuchungen, wodurch letztendlich keine Steuernachforderung erfolgt.</p>",
+                "tags": [
+                    "Verrechnungspreise",
+                    "Steuerprüfung",
+                    "Dokumentation",
+                    "Compliance"
+                ]
+            },
+            "judikatura-transfer-pricing": {
+                "title": "Ausgewählte Rechtsprechung bei der Verrechnungspreisbestimmung",
+                "description": "Die Problematik der Verrechnungspreisbestimmung ist ein sich dynamisch entwickelnder Bereich und man kann sagen, dass ihre rechtliche Regelung nicht ausreichend und eindeutig ist, was sich auch in unterschiedlichen Standpunkten der Steuerverwaltung und des Steuerpflichtigen zeigt.",
+                "excerpt": "Die Problematik der Verrechnungspreisbestimmung ist ein sich dynamisch entwickelnder Bereich und man kann sagen, dass ihre rechtliche Regelung nicht ausreichend und eindeutig ist, was sich auch in unterschiedlichen Standpunkten der Steuerverwaltung und des Steuerpflichtigen zeigt. In der Praxis führt dies oft zu Steuernachforderungen gegenüber dem Steuerpflichtigen und anschließenden Gerichtsverfahren. Für die Zwecke dieses Artikels konzentrieren wir uns auf unterschiedliche Standpunkte hinsichtlich der verwendeten Verrechnungspreismethode, der rechtlichen Verbindlichkeit der Verrechnungspreisrichtlinie (im Folgenden \"Richtlinie\") und der Beweislast.",
+                "category": "Rechtsprechung",
+                "date": "10. November 2024",
+                "readingTime": "12 Min. Lesezeit",
+                "image": "/sources/images/litigation-1.jpg",
+                "content": "<h2>Einführung in die Problematik</h2><p>Die Problematik der Verrechnungspreisbestimmung ist ein sich dynamisch entwickelnder Bereich und man kann sagen, dass ihre rechtliche Regelung nicht ausreichend und eindeutig ist, was sich auch in unterschiedlichen Standpunkten aus Sicht der Steuerverwaltung und des Steuerpflichtigen zeigt. In der Praxis führt dies oft zu Steuernachforderungen gegenüber dem Steuerpflichtigen und anschließenden Gerichtsverfahren. Für die Zwecke dieses Artikels konzentrieren wir uns auf unterschiedliche Standpunkte hinsichtlich der verwendeten Verrechnungspreismethode, der rechtlichen Verbindlichkeit der Verrechnungspreisrichtlinie (im Folgenden \"Richtlinie\") und der Beweislast.</p><h2>Urteil des Bezirksgerichts Bratislava - IKEA Industry Slovakia</h2><p>Das Bezirksgericht Bratislava wies mit seinem Urteil, Aktenzeichen 1S/231/2016, die Klage der Gesellschaft IKEA Industry Slovakia (im Folgenden \"Kläger\") gegen die Finanzdirektion der Slowakischen Republik (im Folgenden \"Beklagter\") ab. Der Beklagte führte beim Kläger eine Steuerprüfung durch, auf deren Grundlage er dem Kläger Steuern nachforderte. Grund für die Nachforderung war die Feststellung, dass die vom Kläger verwendete Preisvergleichsmethode nicht hätte angewendet werden dürfen, da der Kläger keine ausreichende Stichprobe vergleichbarer unabhängiger Transaktionen, Produkte und deren Preise nachweisen konnte, wodurch er die Bedingung der Vergleichbarkeit von Produkt, wirtschaftlichen Umständen, Vertragsbedingungen, Funktionen und Risiken nicht erfüllte. Da die Stichprobe nicht nachgewiesen wurde, wandte der Beklagte die Nettomargenmethode an, wodurch beim Kläger ein Steuerrückstand entstand. Er begründete seine Schlussfolgerungen mit der Anwendung der entsprechenden Bestimmungen des Einkommensteuergesetzes und stützte sie auf die Richtlinie.</p><h3>Argumente des Klägers</h3><p>Andererseits wandte der Kläger ein, dass vollständig vergleichbare Bedingungen aufgrund unterschiedlicher Produktionsvolumina, abweichender Produktionsbedingungen und anderer Faktoren wie beispielsweise Subventionen nicht erreicht werden können. Er wandte auch ein, dass die Richtlinie auf dem Gebiet der Slowakischen Republik unwirksam sei, keinen verbindlichen Charakter habe, da sie nicht im Gesetzblatt der SR veröffentlicht wurde, und dass es Pflicht des Steuerverwalters sei nachzuweisen, dass die vom Kläger verwendeten Preise nicht im Einklang mit den Preisen auf dem unabhängigen Markt stehen.</p><h3>Entscheidung des Gerichts</h3><p>Das Gericht stellte in seiner Entscheidung fest, dass wenn der Kläger die Preisvergleichsmethode angewendet hat, er eine Stichprobe vergleichbarer unabhängiger Transaktionen nachweisen können muss. Gleichzeitig akzeptierte es die Richtlinie als allgemein anerkanntes ergänzendes Auslegungsmittel zur allgemein verbindlichen rechtlichen Regelung. Die Beweislast liegt nach Ansicht des Gerichts beim Kläger, der verpflichtet ist, alle Tatsachen nachzuweisen, die Einfluss auf die richtige Steuerfestsetzung haben.</p><h2>Rechtliche Verbindlichkeit der OECD-Richtlinie</h2><p>Was die Richtlinie betrifft, ordnen wir diese dem sogenannten Soft Law zu. Obwohl es sich um das umfassendste Dokument zur Regelung der Verrechnungspreisproblematik handelt, hat es keine rechtliche Verbindlichkeit. Ihre Funktion ist eher empfehlend. Die Richtlinie ist ein Auslegungsmittel zu Art. 9 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung. Sie kann als Unterstützungsmittel bei der Argumentation zu methodisch-applikativen Fragen der Wahl der Verrechnungspreismethode und der Politik des Steuerpflichtigen einerseits und für Zwecke der Steuerprüfung andererseits Bedeutung haben. Im Rahmen der Rechtsordnung der SR können wir sie jedoch nicht einmal als Auslegungsmittel zu den gesetzlichen Bestimmungen der Verrechnungspreise für Transaktionen betrachten, die sich nach slowakischem Recht richten. Daher hat die Richtlinie unserer Meinung nach in der Rechtsordnung der SR keinen verbindlichen Charakter.</p><h2>Beweislast bei Verrechnungspreisen</h2><p>Mehrere Entscheidungen des Obersten Gerichtshofs der SR existieren auch zur Problematik der Beweislast aus Sicht des Subjekts, das sie trägt. Im Urteil Az. 5Sžf/97/2009 stellt das Gericht fest, dass der Kläger als Steuersubjekt seine Behauptung, die er selbst in verschiedenen Steuerunterlagen, Eingaben und Meldungen anführt, nicht nachweisen muss, sofern nicht das Gegenteil eintritt, d.h. wenn der Steuerverwalter während der Steuerprüfung bzw. im Steuerverfahren dem Steuersubjekt nicht seine Feststellungen vorlegt, die Zweifel an seinen Behauptungen klar belegen.</p><p>In einer anderen Entscheidung unter Az. 2Sžf/8/2016 weist das Gericht darauf hin, dass die Beweislast des Steuersubjekts nicht absolut ist. Einerseits muss man bedenken, dass die Beweisführung vom Steuerverwalter geleitet wird, und andererseits muss auch berücksichtigt werden, welche Tatsachen das Steuersubjekt selbst nachzuweisen verpflichtet ist.</p><h2>Fazit</h2><p>Aufgrund des oben Genannten ließe sich der Schluss ziehen, dass es Pflicht des Steuersubjekts ist, alle Tatsachen nachzuweisen, die Einfluss auf die von ihm ermittelte Steuerhöhe und die Art und Weise hatten, wie es zu dieser gelangt ist. Diese Anforderung ist nicht erfüllt, wenn die Dokumentation des Steuerpflichtigen keine klare Antwort auf seine Verrechnungspreispolitik gibt. Es ist dabei jedoch natürlich, dass der Steuerverwalter Fragen haben kann und vom Steuerpflichtigen zusätzliche Informationen anfordern kann. In diesem Fall ist es Pflicht des Steuerpflichtigen, diese Fragen zu beantworten und die Informationen zu ergänzen.</p>",
+                "tags": [
+                    "Rechtsprechung",
+                    "Verrechnungspreise",
+                    "Gerichtsentscheidungen",
+                    "OECD-Richtlinien"
+                ]
+            },
+            "zapocitanie-pohladavok": {
+                "title": "Wann können Forderungen aufgerechnet werden",
+                "description": "Das Erlöschen von Forderungen durch Aufrechnung stellt eine Form der bargeldlosen Abrechnung zwischen Schuldner und Gläubiger dar, bei der keine tatsächliche Erfüllung zwischen ihnen stattfindet, was zweifellos Kosteneinsparungen bringt.",
+                "excerpt": "Das Erlöschen von Forderungen durch Aufrechnung stellt eine Form der bargeldlosen Abrechnung zwischen Schuldner und Gläubiger dar, bei der keine tatsächliche Erfüllung zwischen ihnen stattfindet, was zweifellos Kosteneinsparungen bringt, die diese Parteien andernfalls aufwenden müssten. Man könnte sagen, dass es sich um eine Form der Ersatzerfüllung der Verpflichtung gegenüber dem Gläubiger handelt, durch die seine Forderung befriedigt wird. Aufgrund der relativen Einfachheit und Effizienz der Erfüllung von Verpflichtungen auf diese Weise handelt es sich in der Praxis um ein häufig genutztes Institut. Nicht immer werden jedoch die gesetzlichen Bedingungen für seine Anwendung eingehalten.",
+                "category": "Handelsrecht",
+                "date": "5. November 2024",
+                "readingTime": "10 Min. Lesezeit",
+                "image": "/sources/images/debt-collection-1.jpg",
+                "content": "<h2>Einführung in die Problematik der Aufrechnung</h2><p>Das Erlöschen von Forderungen durch Aufrechnung stellt eine Form der bargeldlosen Abrechnung zwischen Schuldner und Gläubiger dar, bei der keine tatsächliche Erfüllung zwischen ihnen stattfindet, was zweifellos Kosteneinsparungen bringt, die diese Parteien andernfalls aufwenden müssten. Man könnte sagen, dass es sich um eine Form der Ersatzerfüllung der Verpflichtung gegenüber dem Gläubiger handelt, durch die seine Forderung befriedigt wird. Aufgrund der relativen Einfachheit und Effizienz der Erfüllung von Verpflichtungen auf diese Weise handelt es sich in der Praxis um ein häufig genutztes Institut. Nicht immer werden jedoch die gesetzlichen Bedingungen für seine Anwendung eingehalten.</p><h2>Materiell-rechtliche Bedingungen der Aufrechnung</h2><p>Grundlegende Voraussetzung für die Erfüllung der Verbindlichkeit durch Aufrechnung ist die Erfüllung der materiell-rechtlichen Bedingungen. Diese Bedingungen können wir in allgemeine und besondere unterteilen. Allgemeine Bedingungen für die Aufrechenbarkeit sind:</p><ul><li>Gegenseitigkeit der Forderungen</li><li>Gleichartigkeit der Leistung</li><li>Aufrechenbarkeit</li><li>die Parteien haben eine bestimmte Willenserklärung abgegeben, die auf das Erlöschen der Forderungen durch Aufrechnung gerichtet ist.</li></ul><p>Die oben genannten allgemeinen Bedingungen der Aufrechenbarkeit ergeben sich aus den Bestimmungen der §§ 580 und 581 des Bürgerlichen Gesetzbuches. Daran knüpfen modifizierend die Bestimmungen der §§ 358 bis 364 des Handelsgesetzbuches oder anderer einschlägiger Rechtsvorschriften an.</p><h3>Gegenseitigkeit der Forderungen</h3><p>Von der Gegenseitigkeit der Forderungen sprechen wir dann, wenn zwischen denselben Parteien jede der Parteien zugleich Gläubiger und Schuldner ist. Die Bedingung der Gegenseitigkeit der Forderung muss unabhängig davon erfüllt sein, ob es sich um eine einseitige Aufrechnung oder eine Aufrechnungsvereinbarung handelt. Von der Bedingung der Gegenseitigkeit sieht das Gesetz Ausnahmen vor, um Fälle zu regeln, in denen ein Wechsel in der Person des Gläubigers eingetreten ist, z.B. aufgrund einer Forderungsabtretung. In einem solchen Fall kann der Schuldner gegenüber dem Zessionar (neuen Gläubiger) Forderungen aufrechnen, die er gegenüber dem Zedenten zum Zeitpunkt hatte, als er von der Abtretung der Forderung vom Zedenten an den Zessionar erfuhr.</p><h3>Gleichartigkeit der Leistung</h3><p>Eine weitere gesetzliche Bedingung ist, dass die Forderungen gleichartig sein müssen, d.h. ihr Inhalt ist die gleiche Leistung hinsichtlich Menge und Art. Hinsichtlich der Art kann es sich um Geldforderungen handeln, bei denen ihre Menge in Geld ausgedrückt ist, oder um Nicht-Geldforderungen, bei denen ihre Menge in anderen Einheiten, z.B. Kilogramm, ausgedrückt ist. Am häufigsten handelt es sich um Forderungen auf Geldleistung, wobei bei handelsrechtlichen Schuldverhältnissen der Aufrechnung nicht entgegensteht, wenn die Forderungen in unterschiedlichen Währungen bestehen, sofern diese Währungen frei konvertierbar sind.</p><h3>Aufrechenbarkeit</h3><p>Forderungen sind aufrechenbar, wenn die Aufrechnung nicht durch Gesetz oder Vereinbarung der Teilnehmer ausgeschlossen ist. Eine Vereinbarung der Teilnehmer über die Unmöglichkeit der Aufrechnung gegenseitiger Forderungen stellt ein gesetzliches Hindernis dar. Das Bürgerliche Gesetzbuch regelt in § 581 Abs. 1 und 2 die Ausschlüsse von der einseitigen Aufrechnung. Gemäß § 581 Abs. 1 ist eine einseitige Aufrechnung gegen eine Forderung auf Ersatz von Gesundheitsschäden unzulässig, es sei denn, es handelt sich um eine gegenseitige Forderung auf Schadenersatz derselben Art.</p><h2>Formen der Aufrechnung</h2><p>Die Aufrechnung selbst kann durch einseitige Rechtshandlung oder durch Vereinbarung der Parteien erfolgen. Im Falle der einseitigen Aufrechnung müssen alle genannten Bedingungen erfüllt sein.</p><h3>Einseitige Aufrechnung</h3><p>Die einseitige Aufrechnung ist gegenüber der anderen Partei ab dem Zeitpunkt wirksam, zu dem sie in deren Verfügungsgewalt gelangt ist. Andererseits ist im Falle einer Vereinbarung der Parteien diese Vereinbarung ab dem Zeitpunkt des Wirksamwerdens der Annahme des Vorschlags durch die andere Partei wirksam, z.B. wird die Vereinbarung mit der Unterzeichnung durch die Teilnehmer wirksam. Die eigentlichen Wirkungen der Aufrechnung sind jedoch nicht an den Zeitpunkt des Empfangs der Mitteilung über die einseitige Aufrechnung oder des Abschlusses der Vereinbarung gebunden, sondern an den Zeitpunkt des Zusammentreffens der Forderungen, d.h. den Moment, in dem die spätere von ihnen fällig wird.</p><h3>Aufrechnungsvereinbarung</h3><p>Die Vereinbarung über die Aufrechnung von Forderungen muss von Personen unterzeichnet werden, die berechtigt sind, für das Unternehmen zu handeln. Dies können z.B. Geschäftsführer von Gesellschaften oder dafür bevollmächtigte Personen sein, z.B. ein beauftragter Mitarbeiter, dem dies aus der Arbeitsbeschreibung oder internen Organisationsdokumenten hervorgeht.</p><h2>Besondere Fälle der Aufrechnung</h2><p>Eine Forderung kann auch während eines laufenden Gerichtsverfahrens oder Exekutionsverfahrens aufgerechnet werden. Die bloße Existenz eines laufenden Verfahrens hat keinen Einfluss auf die Aufrechenbarkeit der Forderung. Wichtig ist, dass die Forderungen zum Zeitpunkt ihres Zusammentreffens aufrechenbar waren, auch wenn eine der Forderungen später vom Gericht nicht zuerkannt würde.</p><p>Im Falle passiver Gesamtschuldverhältnisse, wo auf Schuldnerseite mehrere Subjekte auftreten und der Gläubiger berechtigt ist, seinen Anspruch auf Leistung von jedem von ihnen geltend zu machen, kann jeder der Schuldner seine Forderung gegen die Forderung des Gläubigers aufrechnen, und zwar auch dann, wenn der Gläubiger seinen Anspruch gegenüber einem anderen Mitschuldner geltend gemacht hat.</p><h2>Fazit</h2><p>Forderungen können einseitig aufgerechnet werden, wenn sie gegenseitig sind, auf die gleiche Art der Leistung lauten, aufrechenbar sind und die aufrechnende Partei die andere Partei über die Absicht informiert hat, die Forderungen aufzurechnen. Aus der Mitteilung muss ersichtlich sein, welche Forderungen aufgerechnet werden und in welcher Höhe. Wenn sich die Parteien einigen, können alle anderen Forderungen aufgerechnet werden, sofern die Bedingung der Gegenseitigkeit erfüllt ist, und in zivilrechtlichen Beziehungen auch die Bedingung der gleichen Leistungsart, wobei das Rechtsgeschäft nicht im Widerspruch zum Gesetz oder zur Vereinbarung der Parteien getätigt wurde.</p>",
+                "tags": [
+                    "Forderungsaufrechnung",
+                    "Handelsrecht",
+                    "Bürgerliches Gesetzbuch",
+                    "Verbindlichkeiten"
+                ]
+            }
+        }
+    },
+    "contact": {
+        "title": "Kontaktieren Sie uns",
+        "subtitle": "Wir sind für Sie da. Schreiben Sie uns oder rufen Sie uns an.",
+        "officeInfo": "Informationen über das Büro",
+        "formTitle": "Kontaktieren Sie uns",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "address": "Adresse",
+        "hours": "Öffnungszeiten",
+        "hoursDetail": "Montag - Freitag: 8:00 - 17:00, Samstag - Sonntag: Geschlossen",
+        "form": {
+            "name": "Vollständiger Name *",
+            "email": "E-Mail-Adresse *",
+            "phone": "Telefonnummer",
+            "service": "Service auswählen",
+            "message": "Ihre Nachricht *",
+            "submit": "Nachricht senden"
+        },
+        "mapInteraction": "Klicken Sie, um mit der Karte zu interagieren"
+    },
+    "footer": {
+        "company": "Unternehmen",
+        "services": "Dienstleistungen",
+        "legal_areas": "Rechtsbereiche",
+        "other_services": "Weitere Dienstleistungen",
+        "home": "Startseite",
+        "contact": "Kontakt",
+        "consultation": "Beratung",
+        "blog": "Blog",
+        "startups": "Start-ups",
+        "gdpr": "GDPR",
+        "real_estate": "Immobilien",
+        "ecommerce": "e-Commerce",
+        "disputes": "Streitigkeiten",
+        "criminal": "Strafrecht",
+        "financial": "Finanzrecht",
+        "debt": "Handelsrecht",
+        "optimization": "Optimierungen",
+        "due_diligence": "Due Diligence",
+        "need_help": "Brauchen Sie Hilfe?",
+        "all_rights": "Alle Rechte vorbehalten.",
+        "privacy_policy": "Datenschutzrichtlinie",
+        "cookies": "Cookies",
+        "website_by": "Website von AEB Digital"
+    },
+    "location": {
+        "find_us": "Finden Sie uns",
+        "contact_us": "Kontaktieren Sie uns",
+        "map_interaction": "Klicken Sie, um mit der Karte zu interagieren"
+    },
+    "privacy": {
+        "title": "Datenschutzrichtlinie",
+        "subtitle": "Erklärung zum Schutz personenbezogener Daten und den Bedingungen ihrer Verarbeitung",
+        "content": "<p><strong>herausgegeben von der Anwaltskanzlei LegisPro, s.r.o.</strong></p><h3>Identifikation des Verantwortlichen</h3><p>Verantwortlicher für die Verarbeitung Ihrer personenbezogenen Daten ist die Anwaltskanzlei LegisPro, s.r.o., IČO: 56709901, mit Sitz in Sládkovičova 1, 949 01 Nitra... (im Folgenden auch als „LegisPro\" oder „Wir\" bezeichnet).</p><p>Mit dieser Erklärung informieren wir Sie über die Bedingungen und Grundsätze des Schutzes Ihrer personenbezogenen Daten, die wir von Ihnen im Rahmen unserer Interaktion mit Ihnen erhalten... <a href=\"https://www.sak.sk\" target=\"_blank\">https://www.sak.sk</a>.</p><h3>Warum verarbeiten wir Ihre personenbezogenen Daten?</h3><p>Eines unserer Hauptziele ist es, Ihnen – unseren Mandanten – qualitativ hochwertige Rechtsdienstleistungen zu bieten... wir verarbeiten Ihre Daten, um Lösungen zu entwickeln, Sie bei Streitbeilegungen zu vertreten und Ihnen in verschiedenen Rechtsfällen zu helfen.</p><h3>Was bedeutet personenbezogene Daten eigentlich?</h3><p>Ihre personenbezogenen Daten sind alle Informationen, anhand derer wir Sie identifizieren können (Name, Geburtsdatum, Kennung, etc.).</p><h3>Wie erhalten wir Ihre Daten?</h3><ul><li>Verarbeitung von Mandantendaten für die Rechtsanwaltschaft...</li><li>Berechtigung zur Datenerhebung ohne ausdrückliche Einwilligung gemäß Rechtsanwaltsgesetz...</li><li>Keine Informationspflicht, wenn dies die Schweigepflicht verletzen würde.</li></ul><h4>Wenn Sie unser Mandant sind</h4><p>Wir erhalten Daten primär von Ihnen. Die Bereitstellung ist freiwillig, aber oft für die Erbringung der Dienstleistung notwendig.</p><h3>Zu welchen Zwecken verarbeiten wir Ihre personenbezogenen Daten?</h3><p>Zwecke: Auswahlverfahren, Vertragserfüllung, Buchhaltung, Vertretung vor Gerichten, gesetzliche Pflichten und Marketing.</p><h3>Wem stellen wir Ihre personenbezogenen Daten zur Verfügung?</h3><p>Datenweitergabe an Auftragsverarbeiter (Buchhaltung, Marketing, Hosting) sowie an kooperierende Anwälte, Notare und Behörden.</p><h3>Wie lange bewahren wir Ihre personenbezogenen Daten auf?</h3><p>Aufbewahrung entsprechend den gesetzlichen Fristen (oft 10 Jahre gemäß Beschluss der Rechtsanwaltskammer).</p><h3>Welche Rechte haben Sie?</h3><ul><li><strong>Recht auf Auskunft</strong></li><li><strong>Recht auf Berichtigung</strong></li><li><strong>Recht auf Löschung</strong></li><li><strong>Recht auf Einschränkung der Verarbeitung</strong></li><li><strong>Recht auf Datenübertragbarkeit</strong></li><li><strong>Recht auf Widerspruch</strong></li><li><strong>Recht auf Widerruf der Einwilligung</strong></li><li><strong>Recht auf Beschwerde</strong></li></ul><h3>Wir schützen Ihre Privatsphäre</h3><p>Verwendung von Antivirenprogrammen, Firewalls und verschlüsselter Übertragung (https://). Unsere Mitarbeiter sind zur Verschwiegenheit verpflichtet.</p><h3>Änderungen</h3><p>Gültig ab 01.01.2025.</p><h3>Kontaktieren Sie uns</h3><p>Bei Fragen wenden Sie sich an unsere Kontaktadressen.</p>"
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "meta": {
+        "title": "LegisPro - Law Firm Bratislava",
+        "description": "Professional legal services for businesses and entrepreneurs. We specialize in start-ups, GDPR, real estate, financial law and business transactions."
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "business_package": "Business Package",
+        "training": "Training & Webinars",
+        "contact": "Consultation",
+        "subtitle": "Law Firm"
+    },
+    "hero": {
+        "title": "Professional Legal Services",
+        "description": "We specialize in START UPs & Greenfield projects, GDPR, REAL ESTATE, FINANCIAL LAW and business transactions.",
+        "bookBtn": "Contact Us",
+        "learnMoreBtn": "Learn More"
+    },
+    "about": {
+        "title": "LegisPro Law Firm",
+        "description": "The LegisPro law firm provides legal services in the Slovak Republic for domestic and foreign clients. We specialize in supporting and implementing new green field projects as well as optimizing solutions for existing processes and structures. A significant part of our agenda represents ​​financial law and corporate finance. In addition, we also provide wide scope services in GDPR, COMMERCIAL LAW, LITIGATIONS and CRIMINAL LAW.",
+        "founder": {
+            "name": "JUDr. Ing. Jozef Kubaský – Founding Partner",
+            "description": "Advocate and economist. Graduate of the Faculty of Law of Comenius University in Bratislava and the Faculty of Economics and Management of the Slovak Agricultural University in Nitra. I have 18 years of experience working for international corporations. I specialize in green field projects, creating new structures or reallocating existing structures of foreign companies to Slovak Republic. My domain are mainly start-ups, green fields, optimization solutions, financial and commercial law. I speak French, English and German."
+        }
+    },
+    "services": {
+        "title": "Legal Services",
+        "subtitle": "We provide comprehensive legal services for companies and entrepreneurs. We specialize in start-ups, GDPR, real estate and commercial law.",
+        "exploreBtn": "Explore All",
+        "moreInfoBtn": "More Information",
+        "items": {
+            "commercial-law": {
+                "title": "Commercial Law",
+                "description": "We provide comprehensive services in the field of commercial law, from company formation to complex transactions and disputes.",
+                "mainContentTitle": "Commercial Law Services",
+                "category": "Comprehensive commercial law services",
+                "image": "/sources/images/debt-collection-1.jpg",
+                "features": [
+                    {
+                        "title": "Debt Collection",
+                        "description": "We have years of experience in debt collection for our clients within the territory of the Slovak Republic and the European Union. The success of debt recovery also depends on immediate and intensive communication with the debtor. In such cases, the debtor often agrees to one of our proposed and proven methods of debt repayment."
+                    },
+                    {
+                        "title": "Company Formation",
+                        "description": "We will assess your business model, propose the most suitable type of legal form, and professionally establish your new company."
+                    },
+                    {
+                        "title": "Company Liquidation",
+                        "description": "We will help you with ending your business and take over communication with your accountant so that your company is deleted from the Commercial Register in the shortest possible time."
+                    },
+                    {
+                        "title": "Mergers & Acquisitions (M&A)",
+                        "description": "Do you do business under multiple companies that have the same business object? Do we need to optimize your business model to avoid potential penalties from the financial administration? We will prepare a merger project for your companies and perform all necessary actions to avoid potential risks."
+                    },
+                    {
+                        "title": "Sale of Enterprise or its Part",
+                        "description": "Do you need to sell your enterprise or part of it? Do not hesitate to contact us."
+                    },
+                    {
+                        "title": "Filing Bankruptcy Petitions",
+                        "description": "Are you a creditor and have a debtor who is not paying your receivables? We will verify the possibility of filing a bankruptcy petition against your debtor, or we will register your claims and represent you throughout the process. Are you a debtor and need to find out if you have an obligation to declare bankruptcy? We will analyze your liabilities, help you file a bankruptcy petition, and guide you through the entire process."
+                    },
+                    {
+                        "title": "Registration in the Register of Public Sector Partners",
+                        "description": "Do you need to register as a public sector partner? As an authorized person, we will register you and carry out verification at regular intervals."
+                    },
+                    {
+                        "title": "Registration of Shareholders List (CDCP)",
+                        "description": "We have extensive experience with joint-stock companies. We are in regular contact with the Central Securities Depository. We will represent you throughout the entire process from the conclusion of the Agreement on Keeping the List of Shareholders to the registration of the list of shareholders in the Central Securities Depository."
+                    }
+                ]
+            },
+            "financial-law": {
+                "title": "Tax and Financial Law",
+                "description": "We understand corporations and corporate finance. We have years of experience in corporate finance, accounting and taxes.",
+                "mainContentTitle": "Tax Optimization and Consulting",
+                "mainContentIntro": "We will assess your business model and propose measures for its tax-economic optimization. We will represent you in administrative proceedings before tax authorities.",
+                "category": "Tax and financial advisory",
+                "image": "/sources/images/tax-law-1.jpg",
+                "features": [
+                    {
+                        "title": "Tax Optimization",
+                        "description": "We analyze your business model and propose legal ways to optimize tax burden while maintaining compliance with legislation."
+                    },
+                    {
+                        "title": "Corporate Finance",
+                        "description": "We provide consulting in corporate finance, transaction structuring, and financial planning."
+                    },
+                    {
+                        "title": "Representation before Tax Authorities",
+                        "description": "We will represent you in administrative proceedings before tax authorities, help with tax audits and appeals."
+                    },
+                    {
+                        "title": "Transfer pricing",
+                        "description": "Transfer pricing consulting, documentation preparation, and representation during audits."
+                    }
+                ]
+            },
+            "criminal-law": {
+                "title": "Criminal Law",
+                "description": "Our law firm also handles client representation in criminal proceedings, especially in tax and other economic crimes.",
+                "mainContentTitle": "Criminal Defense",
+                "mainContentIntro": "Don't hesitate to contact us. We provide professional defense and representation in criminal matters with specialization in economic crimes.",
+                "category": "Defense in criminal proceedings",
+                "image": "/sources/images/criminal-law-1.jpg",
+                "features": [
+                    {
+                        "title": "Tax Crimes",
+                        "description": "We specialize in defense in cases of tax crimes, tax evasion, failure to pay taxes and similar acts."
+                    },
+                    {
+                        "title": "Economic Crimes",
+                        "description": "Representation in economic crimes such as fraud, abuse of power, bribery and corruption."
+                    },
+                    {
+                        "title": "Criminal Proceedings",
+                        "description": "Comprehensive defense in all phases of criminal proceedings from investigation to appeals to higher courts."
+                    },
+                    {
+                        "title": "Preventive Counseling",
+                        "description": "We also provide preventive counseling to prevent criminal law problems in your business."
+                    }
+                ]
+            },
+            "start-ups-greenfield-projects": {
+                "title": "START UPs & Greenfields",
+                "description": "We love new and interesting ideas. We'll help you launch, develop and grow your new projects.",
+                "mainContentTitle": "Comprehensive services for new projects",
+                "mainContentIntro": "We will guide you through the entire, often complicated and time-consuming process so that you can focus on the essence of your project and we will solve everything else for you.",
+                "category": "Launching new projects",
+                "image": "/sources/greenfield.jpg",
+                "features": [
+                    {
+                        "title": "Permits and licenses",
+                        "description": "If your project requires specific permits, we will represent you in proceedings before the relevant state administration authorities, help you prepare the necessary documents to obtain the given permit."
+                    },
+                    {
+                        "title": "Intellectual property protection",
+                        "description": "We ensure that your intellectual property, the results of your thinking and creativity, such as patents, procedures, trademarks, logos, programs, etc., and the rights associated with them are protected from misuse by competitors."
+                    },
+                    {
+                        "title": "Investment acquisition",
+                        "description": "In case your project requires initial investment, we will help you obtain it. We communicate daily in French, English or German, we are happy to help you approach your future business partner and take over all subsequent communication until the successful conclusion of the contractual relationship."
+                    },
+                    {
+                        "title": "Business model and optimization",
+                        "description": "We will advise you on building your business model so that it is as efficient as possible, not only legally, but also tax-economically."
+                    }
+                ]
+            },
+            "real-estate": {
+                "title": "Real Estate",
+                "description": "Need to buy or sell real estate? We have years of experience in the real estate market.",
+                "mainContentTitle": "Secure Real Estate Transactions",
+                "mainContentIntro": "We always thoroughly examine each transaction and monitor its entire course. Many times we have managed to protect our clients and save them considerable resources.",
+                "category": "Legal services in real estate",
+                "image": "/sources/images/real-estate-1.jpg",
+                "features": [
+                    {
+                        "title": "Real Estate Due Diligence",
+                        "description": "We thoroughly verify the zoning plan of the area, existence of enforcement titles and other facts that may influence your decision."
+                    },
+                    {
+                        "title": "Legal Representation",
+                        "description": "We will accompany you through the entire process of buying or selling your property, ensuring you and your assets are protected to the greatest extent possible."
+                    },
+                    {
+                        "title": "Document Verification",
+                        "description": "It often happens that sellers conceal certain facts that can only be discovered through deeper examination of documentation and registers."
+                    },
+                    {
+                        "title": "Contract Documentation",
+                        "description": "We will prepare all necessary contracts and documents for safe property transfer with protection of your interests."
+                    }
+                ]
+            },
+            "due-diligence": {
+                "title": "Due Diligence",
+                "description": "Want to buy or sell your company or part of it? We'll provide comprehensive due diligence for you.",
+                "mainContentTitle": "Comprehensive Due Diligence",
+                "mainContentIntro": "We understand the need to obtain quality, reliable and complete information for assessing the consequences of such transactions and the creditworthiness or trustworthiness of the business partner.",
+                "category": "Analysis of business transactions",
+                "image": "/sources/images/due-diligence-1.jpg",
+                "features": [
+                    {
+                        "title": "Legal Due Diligence",
+                        "description": "Thorough analysis of the company's legal situation, contractual relationships, litigation and legal risks."
+                    },
+                    {
+                        "title": "Financial Due Diligence",
+                        "description": "Analysis of financial status, accounting, tax obligations and financial risks of the target company."
+                    },
+                    {
+                        "title": "Commercial Due Diligence",
+                        "description": "Evaluation of business model, market position, competitive position and growth prospects."
+                    },
+                    {
+                        "title": "Comprehensive Reports",
+                        "description": "You can leave the entire process to us - we will gladly help you and provide detailed reports with recommendations."
+                    }
+                ]
+            },
+            "gdpr": {
+                "title": "GDPR",
+                "description": "We prepare custom GDPR documentation and ensure compliance with current legal regulations.",
+                "mainContentTitle": "Comprehensive GDPR Solutions",
+                "mainContentIntro": "Personal data protection is essential today. We help you meet all GDPR requirements.",
+                "category": "Personal data protection",
+                "image": "/sources/images/gdpr-special-1.jpg",
+                "features": [
+                    {
+                        "title": "Custom GDPR Documentation",
+                        "description": "We will prepare tailored GDPR documentation that will precisely meet the needs and specifications of your business."
+                    },
+                    {
+                        "title": "Training and Education",
+                        "description": "We will train you and your employees on personal data protection issues. We will ensure that everyone understands their duties and responsibilities."
+                    },
+                    {
+                        "title": "Guidelines Updates",
+                        "description": "We will ensure that your internal guidelines are always in compliance with current legislation. We continuously monitor legislative changes and adapt documentation accordingly."
+                    },
+                    {
+                        "title": "Representation before Authorities",
+                        "description": "We will represent you in proceedings before the Personal Data Protection Authority in case of any problems or inspections."
+                    },
+                    {
+                        "title": "DPO Services",
+                        "description": "We provide Data Protection Officer (DPO) services for companies required by law to have this position."
+                    }
+                ],
+                "checklist": [
+                    {
+                        "title": "Record of Processing Activities",
+                        "description": "Maintaining a complete register of all processing activities in accordance with GDPR."
+                    },
+                    {
+                        "title": "Information Clauses",
+                        "description": "Creation of transparent information clauses for all methods of personal data collection."
+                    },
+                    {
+                        "title": "Data Subject Consents",
+                        "description": "Ensuring valid and documented consents in accordance with GDPR requirements."
+                    },
+                    {
+                        "title": "Procedures for Exercising Rights",
+                        "description": "Creation of effective procedures for exercising the rights of data subjects."
+                    },
+                    {
+                        "title": "Data Protection Impact Assessment",
+                        "description": "Conducting DPIA for high-risk processing activities."
+                    },
+                    {
+                        "title": "Incident Management",
+                        "description": "Creation of procedures for reporting and resolving personal data breaches."
+                    }
+                ]
+            },
+            "litigations": {
+                "title": "Litigation",
+                "description": "We'll represent you in asserting your civil or commercial legal claims.",
+                "mainContentTitle": "Professional Litigation Representation",
+                "mainContentIntro": "We will gladly review the case with you and assess its chances of success. In the interest of efficiency and cost savings for our clients, we always first attempt to resolve the matter out of court.",
+                "category": "Representation in disputes",
+                "image": "/sources/images/litigation-1.jpg",
+                "features": [
+                    {
+                        "title": "Civil Law Disputes",
+                        "description": "Representation in civil law disputes including contractual disputes, damages claims, and other civil matters."
+                    },
+                    {
+                        "title": "Commercial Law Disputes",
+                        "description": "Resolution of commercial disputes, contract breaches, supplier and customer issues, competition disputes."
+                    },
+                    {
+                        "title": "Out-of-Court Resolution",
+                        "description": "We always try to resolve disputes out of court first, which saves time, costs, and preserves business relationships."
+                    },
+                    {
+                        "title": "Court Proceedings",
+                        "description": "If court proceedings are necessary, we provide comprehensive representation at all levels of judicial proceedings."
+                    }
+                ]
+            },
+            "optimization-solutions": {
+                "title": "Optimization Solutions",
+                "description": "Professional Legal Services - We help companies optimize and update their business processes for maximum efficiency.",
+                "mainContentTitle": "Process Audit and Optimization",
+                "mainContentIntro": "The audit often proves its justification. The constantly changing market environment requires our attention and professional approach.",
+                "category": "Audit and process optimization",
+                "image": "/sources/images/training-1.jpg",
+                "features": [
+                    {
+                        "title": "Internal Process Audit",
+                        "description": "We will conduct an audit of your internal processes, analyze their effectiveness and identify areas for improvement."
+                    },
+                    {
+                        "title": "Optimization Solutions Design",
+                        "description": "We will propose specific optimization solutions and calculate potential savings that you can achieve."
+                    },
+                    {
+                        "title": "Contract Analysis",
+                        "description": "We analyze your existing contracts in terms of their advantages, termination options or modification possibilities."
+                    }
+                ]
+            },
+            "ecommerce": {
+                "title": "e-Commerce",
+                "description": "We'll prepare complete and customized documentation for your new internet project.",
+                "mainContentTitle": "Comprehensive e-Commerce Solutions",
+                "mainContentIntro": "You don't have to worry about what general terms and conditions must contain, how an order or complaint form should look. We will prepare all necessary documents for you, including GDPR.",
+                "category": "Legal services for online business",
+                "image": "/sources/images/ecommerce-1.jpg",
+                "features": [
+                    {
+                        "title": "General Terms and Conditions",
+                        "description": "We will create custom terms and conditions for your e-shop that will be in compliance with current legislation and protect your interests."
+                    },
+                    {
+                        "title": "GDPR for e-shop",
+                        "description": "Complete GDPR documentation specially adapted for online sales needs and customer personal data processing."
+                    },
+                    {
+                        "title": "Complaint Procedures",
+                        "description": "Professional complaint procedures and forms that ensure proper handling of complaints and protection against unjustified claims."
+                    },
+                    {
+                        "title": "Marketing Support",
+                        "description": "Through our partner company, we are happy to help you with advertising and promotion of your new e-shop or website."
+                    }
+                ]
+            },
+            "business-package": {
+                "title": "Business Package",
+                "description": "So you don't have to go anywhere else - comprehensive services for beginning entrepreneurs under one roof.",
+                "category": "Business",
+                "image": "/sources/images/tax-law-1.jpg",
+                "mainContent": "<h2>Comprehensive Services for Beginning Entrepreneurs</h2><p>Are you starting a business? Whether as a commercial company or sole proprietorship, we will provide everything you need to launch your project under one roof. We'll provide consultation and propose the most advantageous form of your business.</p>",
+                "features": [
+                    {
+                        "title": "Company Formation",
+                        "description": "We'll establish your new company and provide comprehensive legal support in selecting the optimal form of business."
+                    },
+                    {
+                        "title": "Economic Services",
+                        "description": "We provide professional economic services including accounting and payroll management, tax consulting, report preparation, and VAT services."
+                    },
+                    {
+                        "title": "20 Years of Experience",
+                        "description": "Benefit from our more than 20 years of experience in corporate finance and comprehensive consulting."
+                    },
+                    {
+                        "title": "Directors and Partners",
+                        "description": "Have you become a company director? This position entails certain rights and obligations. We'll set up your internal processes and help you navigate these matters."
+                    },
+                    {
+                        "title": "Commercial Law",
+                        "description": "Do you have unpaid invoices or other receivables? We will advise you on your options and how to proceed for successful debt recovery including accessories."
+                    }
+                ]
+            },
+            "training-webinars": {
+                "title": "Training and Webinars",
+                "description": "Professional legal training tailored to your needs in the form of personal lectures or webinars.",
+                "category": "Education",
+                "image": "/sources/images/contact-office-1.jpg",
+                "mainContent": "<h2>Professional Training Tailored to Your Needs</h2><p>We gladly offer you ready-made training programs or we will develop new topics from civil, commercial, labor, financial law, or other topics according to your needs. We present topics in the form of personal lectures or webinars.</p>",
+                "features": [
+                    {
+                        "title": "Civil Law",
+                        "description": "Comprehensive training in civil law including contract law, ownership relations, and liability for damages."
+                    },
+                    {
+                        "title": "Commercial Law",
+                        "description": "Training focused on commercial obligations, business companies and their management, mergers and acquisitions."
+                    },
+                    {
+                        "title": "Labor Law",
+                        "description": "Current topics in labor law, legislative changes, proper HR management, and resolution of employment disputes."
+                    },
+                    {
+                        "title": "Financial Law",
+                        "description": "Training in tax law, transfer pricing, tax optimization, and communication with tax authorities."
+                    },
+                    {
+                        "title": "Flexible Formats",
+                        "description": "We conduct training in the form of personal lectures at your premises or through online webinars according to your needs."
+                    }
+                ]
+            }
+        }
+    },
+    "process": {
+        "title": "Our Process",
+        "description": "Our work is based on a systematic approach that ensures the best results for our clients. From first contact to case closure, we guide you through every step of the legal process.",
+        "ctaBtn": "Schedule a Meeting",
+        "steps": [
+            {
+                "id": "01",
+                "title": "First Consultation",
+                "description": "We listen to your needs and assess your legal problem. We present possible solutions without obligations."
+            },
+            {
+                "id": "02",
+                "title": "Analysis and Strategy",
+                "description": "We prepare a detailed analysis of your case and propose the best legal strategy to achieve your goals."
+            },
+            {
+                "id": "03",
+                "title": "Implementation and Results",
+                "description": "We professionally represent your interests and handle your case until successful completion."
+            }
+        ]
+    },
+    "vision": {
+        "title": "Our Vision and Values",
+        "description": "We have been here for you for years and our experience speaks for itself. Trust experts who understand your needs and will provide you with the best solutions.",
+        "values": [
+            "Professionalism and Expertise",
+            "Transparency in Every Step",
+            "Individual Approach to Clients",
+            "Long-term Partnership",
+            "Effective Solutions"
+        ]
+    },
+    "blog": {
+        "title": "Blog",
+        "description": "Current legal topics and practical advice from experts.",
+        "exploreBtn": "Explore All",
+        "readMore": "Read Full Article",
+        "featuredLabel": "Featured",
+        "recentPosts": "Recent Posts",
+        "posts": {
+            "danove-kontroly-transfer-pricing": {
+                "title": "Tax Control and Common Deficiencies in Transfer Pricing",
+                "description": "The purpose of tax control is to examine taxpayer procedures in setting transfer prices, i.e. whether they chose an appropriate transfer method, have sufficient documentation for verified transactions.",
+                "excerpt": "The general course of tax control is regulated in § 44 to § 47 of Act No. 563/2009 Coll. on Tax Administration (Tax Code) and on amendments to certain laws. The purpose of tax control is to examine taxpayer procedures in setting transfer prices, i.e., whether they chose an appropriate transfer method, have sufficient documentation for verified transactions, can transparently provide explanations for individual cases, chose the correct basis for comparability analysis, and can adequately demonstrate the application of the arm's length principle in related party transactions carried out in the given tax period.",
+                "category": "Tax Law",
+                "date": "November 15, 2024",
+                "readingTime": "8 min read",
+                "image": "/sources/images/tax-law-1.jpg",
+                "content": "<h2>Purpose and Course of Tax Control</h2><p>The general course of tax control is regulated in § 44 to § 47 of Act No. 563/2009 Coll. on Tax Administration (Tax Code) and on amendments to certain laws (hereinafter \"Tax Code\"). The purpose of tax control is to examine taxpayer procedures in setting transfer prices, i.e., whether they chose an appropriate transfer method, have sufficient documentation for verified transactions, can transparently provide explanations for individual cases, chose the correct basis for comparability analysis, and can adequately demonstrate the application of the arm's length principle in related party transactions carried out in the given tax period.</p><h3>Start and Notification of Tax Control</h3><p>According to § 44 of the Tax Code, tax control begins on the day determined by the tax administrator and about which they inform the taxpayer through notification. The notification must also contain the place of control, type of tax subject to control, controlled period, and deadline for submission of required documentation along with instructions on consequences of non-compliance. The tax administrator may start tax control without notification if they suspect the taxpayer will alter or destroy documents necessary for case assessment.</p><p>If the tax administrator, during ongoing tax control, identifies discrepancies in periods other than those mentioned in the notification, they are entitled to extend the control to these periods as well.</p><h3>Taxpayer Obligations During Control</h3><p>The taxpayer is obliged to allow the tax administrator to perform control, provide access to premises and software, provide cooperation, and lend materials even outside their premises if requested by the tax administrator.</p><p>During control, the tax administrator examines submitted documents for correctness, completeness, and truthfulness. If any discrepancies are identified, they notify the taxpayer and request explanation. The taxpayer may submit all documents and provide evidence and explanations for the case, which the tax administrator then evaluates. If documents or explanations are insufficient, they request supplementation.</p><h2>Most Frequently Controlled Areas</h2><p>From the perspective of controlled areas, the most frequent subject of controls is the area of services, goods, and intangible assets. Additionally, cost allocation between related enterprises and group financing are commonly examined.</p><p>The control itself is conducted through samples selected by the tax administrator, who then requests their submission from the taxpayer. The reason for selecting a particular controlled transaction sample may be its frequency within the taxpayer's overall activity. Sample selection may also be influenced by tax administrator suspicions, for example, if the taxpayer changes business model or switches from profit to loss year-over-year. Tax administrators also typically open tax controls for problematic taxpayers, such as those previously assessed or those conducting risky transactions.</p><h3>What Tax Administrators Control</h3><p>During tax control, tax administrators examine primarily:</p><ul><li>whether the subject of performance was actually delivered or services provided,</li><li>whether the company actually needed the given subject of performance or provided services, i.e., the tax administrator questions whether the controlled entity would provide such service to an independent party,</li><li>whether prices were set in accordance with the arm's length principle.</li></ul><h2>Most Frequently Identified Problems</h2><p>The most frequently identified problems during tax controls include:</p><ul><li><strong>inability of the enterprise to adequately explain services provided between related parties;</strong> the taxpayer must undoubtedly prove that the provided service was justified, i.e., relates to the recipient's needs and complies with the arm's length principle,</li><li><strong>insufficient or non-existent transfer documentation,</strong></li><li><strong>poor quality of transfer documentation,</strong></li><li><strong>inconsistency between documentation content and the taxpayer's business activity and explanations,</strong></li><li><strong>insufficient substantiation of comparability factors,</strong> i.e., inadequate functional and risk analysis, for example, too small or inappropriately chosen comparative base,</li><li><strong>insufficient explanation of lower profit compared to other enterprises in the group,</strong></li><li><strong>non-existence of contracts and other documents that would support the chosen taxpayer approach,</strong></li><li><strong>inability to provide requested information about related parties to the tax administrator,</strong></li><li><strong>slowness, problematic nature, or inability of the taxpayer to respond to various tax administrator requests,</strong></li></ul><p>The course and outcome of tax control is undoubtedly influenced by the controlled taxpayer's approach to transfer pricing issues. If the tax administrator sees that the taxpayer made maximum effort in the documentation process and this effort was reflected in high quality submitted documentation, it may accelerate the tax control process, for example by approving the used method, accepting business explanations without need for further examination, ultimately not assessing additional tax.</p>",
+                "tags": [
+                    "transfer pricing",
+                    "tax control",
+                    "documentation",
+                    "compliance"
+                ]
+            },
+            "judikatura-transfer-pricing": {
+                "title": "Selected Case Law in Transfer Pricing",
+                "description": "Transfer pricing issues are a dynamically developing area, and it could be said that its legal regulation is insufficient and ambiguous, which is also reflected in different views from the tax administrator and taxpayer perspectives.",
+                "excerpt": "Transfer pricing issues are a dynamically developing area, and it could be said that its legal regulation is insufficient and ambiguous, which is also reflected in different views on it from the perspective of the tax administrator and the taxpayer. In practice, this often results in additional tax assessments for the taxpayer and subsequent court disputes. For the purposes of this article, we will focus on different perspectives regarding the transfer method used, legal binding of transfer pricing guidelines, and burden of proof.",
+                "category": "Case Law",
+                "date": "November 10, 2024",
+                "readingTime": "12 min read",
+                "image": "/sources/images/litigation-1.jpg",
+                "content": "<h2>Introduction to the Issue</h2><p>Transfer pricing issues are a dynamically developing area, and it could be said that its legal regulation is insufficient and ambiguous, which is also reflected in different views from the perspective of the tax administrator and the taxpayer. In practice, this often results in additional tax assessments for the taxpayer and subsequent court disputes. For this article, we will focus on different perspectives regarding the transfer method used, legal binding of transfer pricing guidelines (hereinafter \"guidelines\"), and burden of proof.</p><h2>Regional Court in Bratislava Judgment - IKEA Industry Slovakia</h2><p>The Regional Court in Bratislava, by its judgment filed under case number 1S/231/2016, rejected the lawsuit of IKEA Industry Slovakia (hereinafter \"plaintiff\") against the Financial Directorate of the Slovak Republic (hereinafter \"defendant\"). The defendant conducted a tax control at the plaintiff's premises, based on which additional tax was assessed. The reason for the tax assessment was the finding that the comparable uncontrolled price method used by the plaintiff should not have been applied, as the plaintiff could not demonstrate a sufficient sample of comparable independent transactions, products, and their prices, thus failing to meet the product comparability condition, economic circumstances, contractual conditions, functions, and risks. The defendant, given that the sample was not proven, used the transactional net margin method, resulting in a tax deficiency for the plaintiff. They substantiated their conclusions by applying relevant income tax law provisions, supporting them with the guidelines.</p><h3>Plaintiff's Arguments</h3><p>On the other hand, the plaintiff objected that completely comparable conditions cannot be achieved given different production volumes, varying production conditions, and other factors such as subsidies. They also objected that the guidelines are ineffective in the Slovak Republic, have no binding character as they were not published in the Collection of Laws of the Slovak Republic, and that it is the tax administrator's obligation to prove that the plaintiff's used prices are inconsistent with arm's length prices.</p><h3>Court Decision</h3><p>In its decision, the court stated that if the plaintiff used the comparable uncontrolled price method, they must be able to prove a sample of comparable independent transactions. At the same time, it accepted the guidelines as a generally recognized supplementary interpretative tool to generally binding legal regulation. According to the court, the burden of proof lies with the plaintiff, who is obliged to prove all facts that affect the correct determination of tax.</p><h2>Legal Binding Nature of OECD Guidelines</h2><p>Regarding the guidelines, we classify them as so-called soft law. Despite being the most comprehensive document regulating transfer pricing issues, they have no legal binding force. Their function is rather recommendatory. The guidelines are an interpretative tool for Article 9 of the OECD Model Tax Convention on the Avoidance of Double Taxation. They may have significance as a supporting tool in argumentation for methodological-application questions of transfer methodology selection and taxpayer policy on one side and for tax control purposes on the other. However, within the Slovak legal system, we cannot consider them even as an interpretative tool for legal provisions of transfer pricing for transactions governed by Slovak law. Therefore, in our opinion, the guidelines have no binding character in the Slovak legal system.</p><h2>Burden of Proof in Transfer Pricing</h2><p>Several decisions of the Supreme Court of the Slovak Republic exist on the burden of proof issue from the perspective of the entity bearing it. In judgment case no. 5Sžf/97/2009, the court states that the plaintiff as a tax entity does not have to prove their claim stated in various tax documents, submissions, and returns, unless the opposite occurs, i.e., if the tax administrator during tax control or in tax proceedings does not present clear findings to the tax entity proving doubts about their claims.</p><p>In another decision under case no. 2Sžf/8/2016, the court draws attention that the tax entity's burden of proof is not absolute. On one hand, it should be remembered that evidence is led by the tax administrator, and on the other hand, consideration should also be given to which facts the tax entity itself is obliged to prove.</p><h2>Conclusion</h2><p>Based on the above, it could be concluded that it is the tax entity's obligation to prove all facts that influenced their determined tax amount and the method by which they arrived at it. This requirement is not met if the taxpayer's documentation does not provide a clear answer to their transfer pricing policy. However, it is natural that the tax administrator may have questions and may request additional information from the taxpayer. In this case, it is the taxpayer's obligation to answer these questions and supplement the information.</p>",
+                "tags": [
+                    "case law",
+                    "transfer pricing",
+                    "court decisions",
+                    "OECD guidelines"
+                ]
+            },
+            "zapocitanie-pohladavok": {
+                "title": "When Can Claims Be Set Off",
+                "description": "The extinction of claims by set-off represents a form of cashless settlement between debtor and creditor, where no real performance occurs between them, which undoubtedly brings cost savings.",
+                "excerpt": "The extinction of claims by set-off represents a form of cashless settlement between debtor and creditor, where no real performance occurs between them, which undoubtedly brings cost savings that these parties would otherwise have to incur. It could be said that this is a form of substitute performance of the obligation to the creditor, which satisfies their claim. Given the relative simplicity and efficiency of fulfilling obligations in this way, this is a frequently used institute in practice.",
+                "category": "Commercial Law",
+                "date": "November 5, 2024",
+                "readingTime": "10 min read",
+                "image": "/sources/images/debt-collection-1.jpg",
+                "content": "<h2>Introduction to Set-Off Issues</h2><p>The extinction of claims by set-off represents a form of cashless settlement between debtor and creditor, where no real performance occurs between them, which undoubtedly brings cost savings that these parties would otherwise have to incur. It could be said that this is a form of substitute performance of the obligation to the creditor, which satisfies their claim. Given the relative simplicity and efficiency of fulfilling obligations in this way, this is a frequently used institute in practice. However, the legal conditions for its use are not always observed.</p><h2>Substantive Law Conditions for Set-Off</h2><p>The basic prerequisite for fulfilling an obligation by set-off is meeting substantive law conditions. These conditions can be divided into general and special. General conditions for set-off capability are:</p><ul><li>mutuality of claims</li><li>same type of performance</li><li>capability for set-off</li><li>parties made a certain manifestation of will aimed at extinction of claims by set-off.</li></ul><p>The above-mentioned general conditions for set-off capability arise from provisions of § 580 and § 581 of the Civil Code. These are modified by provisions of § 358 to § 364 of the Commercial Code or other relevant legal regulations.</p><h3>Mutuality of Claims</h3><p>We speak of claim mutuality when between the same parties, each party is both creditor and debtor simultaneously. The condition of claim mutuality must be met regardless of whether it concerns unilateral set-off or set-off agreement. The law establishes exceptions to the mutuality condition to regulate cases where there was a change in the creditor's person, e.g., due to claim assignment. In such case, the debtor may set off against the assignee (new creditor) claims they had against the assignor at the time they learned about the claim assignment from assignor to assignee.</p><h3>Same Type of Performance</h3><p>Another legal condition is that claims must be of the same type, i.e., their content is the same performance in terms of quantity and type. From the type perspective, these may be monetary claims, where their amount is expressed in money, or non-monetary claims, where their amount is expressed in other units, e.g., kilograms. Most often these are claims for monetary performance, and in commercial-obligation relationships, set-off is not prevented if claims are in different currencies, provided these currencies are freely convertible.</p><h3>Capability for Set-Off</h3><p>Claims are capable of set-off when set-off is not excluded by law or agreement of parties. Party agreement on impossibility of set-off of mutual claims represents a legal obstacle. The Civil Code in § 581 para. 1 and 2 regulates exclusions from unilateral set-off. According to § 581 para. 1, unilateral set-off is inadmissible against a claim for compensation for damage to health, unless it concerns a mutual claim for compensation for damage of the same type.</p><h2>Forms of Set-Off</h2><p>Set-off itself may occur by unilateral act or agreement of parties. In case of unilateral set-off, all mentioned conditions must be met.</p><h3>Unilateral Set-Off</h3><p>Unilateral set-off is effective against the other party from the moment it came into their disposition. On the other hand, in case of party agreement, this agreement is effective from the moment of effectiveness of acceptance of the proposal by the other party, e.g., agreement becomes effective upon signing by participants. However, the actual effects of set-off are not tied to the moment of receipt of notification about unilateral set-off or conclusion of agreement, but to the moment of claims meeting, i.e., the moment when the later of them becomes due.</p><h3>Set-Off Agreement</h3><p>The agreement on set-off of claims must be signed by persons authorized to act for the company. This may be, for example, company executives or persons authorized for this, e.g., authorized employee, which results from job description or internal organizational documents.</p><h2>Special Cases of Set-Off</h2><p>A claim can be set off even during ongoing court proceedings or execution proceedings. The mere existence of ongoing proceedings has no effect on claim set-off capability. It is important that claims are capable of set-off at the time they met, even if one of the claims would not later be awarded by the court.</p><p>In case of passive solidary obligations, where multiple entities appear on the debtor side and the creditor is entitled to assert their claim for performance from any of them, any of the debtors may set off their claim against the creditor's claim, even if the creditor asserted their claim against another co-debtor.</p><h2>Conclusion</h2><p>Claims can be set off unilaterally if they are mutual, concern the same type of performance, are capable of set-off, and the set-off party informed the other party of their intention to set off claims. The notification must clearly indicate which claims are being set off and in what amount. If parties agree, it is possible to set off all other claims, provided the mutuality condition is met, and in civil law relationships also the condition of same type of performance, where the legal act was not performed contrary to law or party agreement.</p>",
+                "tags": [
+                    "claims set-off",
+                    "commercial law",
+                    "civil code",
+                    "obligations"
+                ]
+            }
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "We are here for you. Write to us or give us a call.",
+        "officeInfo": "Office Information",
+        "formTitle": "Contact Us",
+        "email": "Email",
+        "phone": "Phone",
+        "address": "Address",
+        "hours": "Office Hours",
+        "hoursDetail": "Monday - Friday: 8:00 - 17:00, Saturday - Sunday: Closed",
+        "form": {
+            "name": "Full Name *",
+            "email": "Email Address *",
+            "phone": "Phone Number",
+            "service": "Select Service",
+            "message": "Your Message *",
+            "submit": "Send Message"
+        },
+        "mapInteraction": "Click to interact with the map"
+    },
+    "footer": {
+        "company": "Company",
+        "services": "Services",
+        "legal_areas": "Legal Areas",
+        "other_services": "Other Services",
+        "home": "Home",
+        "contact": "Contact",
+        "consultation": "Consultation",
+        "blog": "Blog",
+        "startups": "Start-ups",
+        "gdpr": "GDPR",
+        "real_estate": "Real Estate",
+        "ecommerce": "e-Commerce",
+        "disputes": "Disputes",
+        "criminal": "Criminal Law",
+        "financial": "Financial Law",
+        "debt": "Commercial Law",
+        "optimization": "Optimizations",
+        "due_diligence": "Due Diligence",
+        "need_help": "Need help?",
+        "all_rights": "All rights reserved.",
+        "privacy_policy": "Privacy Policy",
+        "cookies": "Cookies",
+        "website_by": "website by AEB Digital"
+    },
+    "location": {
+        "find_us": "Find Us",
+        "contact_us": "Contact Us",
+        "map_interaction": "Click to interact with the map"
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "subtitle": "Declaration on personal data protection and conditions for their processing",
+        "content": "<p><strong>issued by LegisPro law firm, s.r.o.</strong></p><h3>Controller Identification</h3><p>The controller of your personal data processing is the law firm LegisPro, s.r.o., Business ID: 56709901, with registered office at Sládkovičova 1, 949 01 Nitra, a company registered in the Commercial Register of the District Court of Nitra, Section Sro, File No. 64948/N (hereinafter also referred to as \"LegisPro\" or \"We\" in the appropriate grammatical form).</p><p>Regarding matters relating to the processing and protection of personal data, you may contact us at the address LegisPro, s.r.o., law firm, Sládkovičova 1, 949 01 Nitra or by email at dpo@legispro.sk.</p><p>This declaration informs you about the conditions and principles of protection of your personal data that we obtain from you through our interaction with you, specifically about how and what personal data we obtain from you, how we process this personal data, and what your rights are in connection with the processing of your personal data.</p><p>LegisPro as a controller takes the protection of your personal data very seriously. In protecting them, we proceed carefully according to applicable law, in particular according to Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data... <a href=\"https://www.sak.sk\" target=\"_blank\">https://www.sak.sk</a>.</p><h3>Why do we process your personal data?</h3><p>One of our main goals is to provide you – our clients – with quality legal services... develop solutions for various situations, represent you in dispute resolution, contract negotiations, or help you in various legal cases.</p><h3>What does personal data actually mean?</h3><p>Your personal data is any information or characteristic based on which we know or can identify you. Identifying information can be a name, surname, date of birth, personal number, or online identifier.</p><h3>How do we obtain your data?</h3><ul><li>processes personal data of clients and other natural persons to the extent necessary for the purposes of practicing law...</li><li>is authorized to obtain and process personal data... by copying, scanning, or otherwise recording official documents...</li><li>does not have the obligation to provide information... if this could lead to a violation of the lawyer's obligation to maintain confidentiality.</li></ul><h4>If you are our client</h4><p>We obtain your personal data primarily from you. Provision is voluntary, however, in some cases it is necessary for providing legal services.</p><h3>For what purposes do we process your personal data?</h3><p>We process your personal data primarily for the following purposes: conducting selection procedures, fulfilling contractual obligations, processing accounting documents, representation in proceedings, and marketing research based on consent.</p><h3>To whom do we disclose your personal data?</h3><p>We may provide your personal data... to our processors (accounting, payroll, marketing, hosting). We also disclose to cooperating lawyers, notaries, experts, and public administration authorities.</p><h3>How long do we retain your personal data?</h3><p>We retain your data for as long as necessary for the purpose. In accordance with the Advocacy Act, the retention period for a client file is generally 10 years.</p><h3>What are your rights?</h3><ul><li><strong>Right to access information</strong></li><li><strong>Right to rectification</strong></li><li><strong>Right to erasure</strong></li><li><strong>Right to restriction of processing</strong></li><li><strong>Right to data portability</strong></li><li><strong>Right to object</strong></li><li><strong>Right to withdraw consent</strong></li><li><strong>Right to lodge a complaint</strong></li></ul><h3>We protect your privacy</h3><p>We use various antivirus programs, multi-level firewalls, and secure https:// protocol. Our employees are instructed on the principles of processing and have an obligation to maintain confidentiality.</p><h3>Changes</h3><p>These terms become valid on January 01, 2025.</p><h3>Contact us</h3><p>If you have any questions, you can contact us at the addresses provided above.</p>"
+    }
+}

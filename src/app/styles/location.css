@@ -1,0 +1,199 @@
+/* Location Component Styles */
+
+.location {
+    position: relative;
+    z-index: 10;
+    padding: 0;
+    margin-bottom: -100px;
+}
+
+.location-background {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background: transparent;
+    z-index: -1;
+}
+
+.location-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 0;
+    align-items: stretch;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 0;
+}
+
+.location-info {
+    background-color: #dcecf8;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
+.location-item {
+    margin-bottom: 2rem;
+}
+
+.location-item:last-child {
+    margin-bottom: 0;
+}
+
+.location-item h4 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.location-item p {
+    color: var(--primary-color);
+    margin: 0.5rem 0;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.location-item a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.location-item a:hover {
+    text-decoration: underline;
+    color: var(--primary-dark);
+}
+
+.map {
+    height: 100%;
+    min-height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+
+.map iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+
+/* Map overlay to prevent scroll interference */
+.map-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 10;
+    padding-bottom: 2rem;
+}
+
+.map-overlay.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.map-overlay-content {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 0.75rem 1rem;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: var(--primary-color);
+    transition: transform 0.3s ease;
+    backdrop-filter: blur(4px);
+}
+
+.map-overlay:hover .map-overlay-content {
+    transform: scale(1.02);
+}
+
+.map-overlay-content h4 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .location {
+        margin-top: 0;
+        margin-bottom: 0;
+        position: relative;
+        z-index: 10;
+    }
+    
+    .location-content {
+        grid-template-columns: 1fr;
+        gap: 0;
+        margin-top: 0;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+    
+    .location-info {
+        order: 1;
+        padding: 2rem 1.5rem;
+    }
+    
+    .location-item h4 {
+        font-size: 24px;
+    }
+    
+    .location-item p {
+        font-size: 15px;
+    }
+    
+    .map {
+        order: 2;
+        min-height: 300px;
+    }
+}
+
+@media (max-width: 480px) {
+    .location-info {
+        padding: 1.5rem 1rem;
+    }
+    
+    .location-item {
+        margin-bottom: 1.5rem;
+    }
+    
+    .location-item h4 {
+        font-size: 20px;
+        margin-bottom: 0.75rem;
+    }
+    
+    .location-item p {
+        font-size: 14px;
+    }
+    
+    .map {
+        min-height: 250px;
+    }
+    
+    .map-overlay {
+        padding-bottom: 1.5rem;
+    }
+    
+    .map-overlay-content {
+        padding: 0.5rem 0.75rem;
+    }
+    
+    .map-overlay-content h4 {
+        font-size: 0.85rem;
+    }
+}
