@@ -22,7 +22,8 @@ export async function getDynamicBlogs(lang: string) {
     const formattedBlogs: any = {}
 
     data.forEach((blog: any) => {
-        const translation = blog.translations.find((t: any) => t.lang === lang) || blog.translations.find((t: any) => t.lang === 'sk')
+        // ONLY show the blog if the specific requested language is PUBLISHED
+        const translation = blog.translations.find((t: any) => t.lang === lang && t.is_published)
 
         if (translation) {
             formattedBlogs[blog.slug] = {
@@ -63,7 +64,8 @@ export async function getDynamicBlogBySlug(slug: string, lang: string) {
         return null
     }
 
-    const translation = data.translations.find((t: any) => t.lang === lang) || data.translations.find((t: any) => t.lang === 'sk')
+    // ONLY show if the specific requested language is PUBLISHED
+    const translation = data.translations.find((t: any) => t.lang === lang && t.is_published)
 
     if (!translation) return null
 
