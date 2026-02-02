@@ -1,4 +1,4 @@
-import { revalidatePath, revalidateTag } from 'next/cache';
+import { revalidatePath } from 'next/cache';
 import { NextRequest, NextResponse } from 'next/server';
 import { i18n } from '@/i18n-config';
 
@@ -62,18 +62,8 @@ export async function POST(request: NextRequest) {
             });
         }
 
-        // If tag is provided, revalidate by tag
-        if (body.tag) {
-            revalidateTag(body.tag);
-            return NextResponse.json({
-                revalidated: true,
-                tag: body.tag,
-                timestamp: new Date().toISOString(),
-            });
-        }
-
         return NextResponse.json(
-            { error: 'Missing required parameters: path, or type+slug, or tag' },
+            { error: 'Missing required parameters: path, or type+slug' },
             { status: 400 }
         );
     } catch (error) {
