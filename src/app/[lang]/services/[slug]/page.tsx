@@ -1,11 +1,69 @@
-import { Locale } from '@/i18n-config';
+import { Locale, i18n } from '@/i18n-config';
 import { getDictionary } from '@/get-dictionary';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import { Metadata } from 'next';
 
 import ServiceSidebar from '@/components/ServiceSidebar';
-
 import SmoothScrollLink from '@/components/SmoothScrollLink';
+import { BASE_URL, getLocalizedPath } from '@/pathnames';
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: Locale, slug: string }> }): Promise<Metadata> {
+    const { lang, slug } = await params;
+    const dictionary = await getDictionary(lang);
+    const service = (dictionary.services.items as Record<string, any>)[slug];
+
+    if (!service) {
+        return {
+            title: 'Service Not Found',
+            description: 'The requested service could not be found.',
+        };
+    }
+
+    const title = `${service.title} | LegisPro`;
+    const description = service.description;
+    const image = service.image?.startsWith('http') ? service.image : `${BASE_URL}${service.image}`;
+    const localizedServicesPath = getLocalizedPath('/services', lang);
+    const url = `${BASE_URL}${localizedServicesPath}/${slug}`;
+
+    // Generate alternates for all languages
+    const alternateLanguages: Record<string, string> = {};
+    for (const locale of i18n.locales) {
+        const localeServicesPath = getLocalizedPath('/services', locale);
+        alternateLanguages[locale] = `${BASE_URL}${localeServicesPath}/${slug}`;
+    }
+
+    return {
+        title,
+        description,
+        openGraph: {
+            title: service.title,
+            description,
+            type: 'website',
+            url,
+            siteName: 'LegisPro',
+            locale: lang === 'sk' ? 'sk_SK' : lang === 'de' ? 'de_DE' : lang === 'fr' ? 'fr_FR' : 'en_US',
+            images: [
+                {
+                    url: image,
+                    width: 1200,
+                    height: 630,
+                    alt: service.title,
+                },
+            ],
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: service.title,
+            description,
+            images: [image],
+        },
+        alternates: {
+            canonical: url,
+            languages: alternateLanguages,
+        },
+    };
+}
 
 export default async function ServiceDetailPage({ params }: { params: Promise<{ lang: Locale, slug: string }> }) {
     const { lang, slug } = await params;

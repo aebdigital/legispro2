@@ -1,7 +1,48 @@
-import { Locale } from '@/i18n-config';
+import { Locale, i18n } from '@/i18n-config';
 import { getDictionary } from '@/get-dictionary';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { getDynamicBlogs } from '@/lib/blogs';
+import { BASE_URL } from '@/pathnames';
+
+// Revalidate every hour to pick up new blogs
+export const revalidate = 3600;
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: Locale }> }): Promise<Metadata> {
+    const { lang } = await params;
+    const dictionary = await getDictionary(lang);
+
+    const title = `${dictionary.blog.title} | LegisPro`;
+    const description = dictionary.blog.description;
+    const url = `${BASE_URL}/${lang}/blog`;
+
+    const alternateLanguages: Record<string, string> = {};
+    for (const locale of i18n.locales) {
+        alternateLanguages[locale] = `${BASE_URL}/${locale}/blog`;
+    }
+
+    return {
+        title,
+        description,
+        openGraph: {
+            title: dictionary.blog.title,
+            description,
+            type: 'website',
+            url,
+            siteName: 'LegisPro',
+            locale: lang === 'sk' ? 'sk_SK' : lang === 'de' ? 'de_DE' : lang === 'fr' ? 'fr_FR' : 'en_US',
+        },
+        twitter: {
+            card: 'summary',
+            title: dictionary.blog.title,
+            description,
+        },
+        alternates: {
+            canonical: url,
+            languages: alternateLanguages,
+        },
+    };
+}
 
 export default async function BlogPage({ params }: { params: Promise<{ lang: Locale }> }) {
     const { lang } = await params;

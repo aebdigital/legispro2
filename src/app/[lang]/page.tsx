@@ -1,9 +1,56 @@
-import { Locale } from '@/i18n-config';
+import { Locale, i18n } from '@/i18n-config';
 import { getDictionary } from '@/get-dictionary';
 import Link from 'next/link';
 import Image from 'next/image';
+import { Metadata } from 'next';
 
 import HeroSlider from '@/components/home/HeroSlider';
+import { BASE_URL } from '@/pathnames';
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: Locale }> }): Promise<Metadata> {
+    const { lang } = await params;
+    const dictionary = await getDictionary(lang);
+
+    const title = dictionary.meta.title;
+    const description = dictionary.meta.description;
+    const url = `${BASE_URL}/${lang}`;
+
+    const alternateLanguages: Record<string, string> = {};
+    for (const locale of i18n.locales) {
+        alternateLanguages[locale] = `${BASE_URL}/${locale}`;
+    }
+
+    return {
+        title,
+        description,
+        openGraph: {
+            title,
+            description,
+            type: 'website',
+            url,
+            siteName: 'LegisPro',
+            locale: lang === 'sk' ? 'sk_SK' : lang === 'de' ? 'de_DE' : lang === 'fr' ? 'fr_FR' : 'en_US',
+            images: [
+                {
+                    url: `${BASE_URL}/sources/images/legal-office-1.jpg`,
+                    width: 1200,
+                    height: 630,
+                    alt: 'LegisPro - Law Firm',
+                },
+            ],
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title,
+            description,
+            images: [`${BASE_URL}/sources/images/legal-office-1.jpg`],
+        },
+        alternates: {
+            canonical: url,
+            languages: alternateLanguages,
+        },
+    };
+}
 
 export default async function Home({ params }: { params: Promise<{ lang: Locale }> }) {
     const { lang } = await params;
