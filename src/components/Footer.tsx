@@ -64,7 +64,7 @@ export default function Footer({ lang, dictionary }: FooterProps) {
                 </div>
                 <div className="footer-bottom">
                     <div className="footer-copyright">
-                        <p>© {new Date().getFullYear()} LegisPro, s.r.o. {d.all_rights} | <Link href={`/${lang}/privacy-policy`}>{d.privacy_policy}</Link> | <a href="#" onClick={(e) => e.preventDefault()}>{d.cookies}</a></p>
+                        <p>© {new Date().getFullYear()} LegisPro, s.r.o. {d.all_rights} | <Link href={`/${lang}/privacy-policy`}>{d.privacy_policy}</Link> | <a href="#" onClick={(e) => { e.preventDefault(); if (typeof window !== 'undefined' && (window as any).openCookieSettings) { (window as any).openCookieSettings(); } }}>{d.cookies}</a></p>
                         <p><a href="https://aebdigital.sk" target="_blank" rel="noopener noreferrer">{d.website_by}</a></p>
                     </div>
                 </div>

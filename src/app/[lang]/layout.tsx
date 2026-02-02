@@ -5,6 +5,7 @@ import { i18n, type Locale } from '../../i18n-config';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import Location from '../../components/Location';
+import CookieConsent from '../../components/CookieConsent';
 import { getDictionary } from '../../get-dictionary';
 import { getAllLocalizedUrls } from '../../pathnames';
 
@@ -85,6 +86,7 @@ export default async function RootLayout({
                 {children}
                 <Location dictionary={dictionary} />
                 <Footer lang={locale} dictionary={dictionary} />
+                <CookieConsent lang={locale} />
             </body>
         </html>
     );
