@@ -3,6 +3,13 @@
         "title": "LegisPro - Cabinet d'Avocats Bratislava",
         "description": "Services juridiques professionnels pour les entreprises et les entrepreneurs. Nous nous spécialisons dans les start-ups, GDPR, immobilier, droit fiscal et transactions commerciales."
     },
+    "common": {
+        "sidebar": {
+            "title": "Avez-vous des questions ?",
+            "description": "N'hésitez pas à nous contacter",
+            "button": "Contactez-nous"
+        }
+    },
     "nav": {
         "home": "Accueil",
         "about": "À propos",
@@ -502,7 +509,19 @@
             "phone": "Numéro de téléphone",
             "service": "Sélectionner le service",
             "message": "Votre message *",
-            "submit": "Envoyer le message"
+            "submit": "Envoyer le message",
+            "options": {
+                "startup": "START UPS & Greenfields",
+                "gdpr": "GDPR",
+                "optimization": "Solutions d'Optimisation",
+                "duediligence": "Due Diligence",
+                "commercial": "Droit Commercial",
+                "tax": "Droit Fiscal & Financier",
+                "ecommerce": "e-Commerce",
+                "reality": "Immobilier",
+                "litigation": "Litiges",
+                "criminal": "Droit Pénal"
+            }
         },
         "mapInteraction": "Cliquez pour interagir avec la carte"
     },

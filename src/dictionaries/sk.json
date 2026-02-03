@@ -1,7 +1,14 @@
 {
     "meta": {
-        "title": "LegisPro - Advokátska kancelária Bratislava",
-        "description": "Profesionálne právne služby pre firmy a podnikateľov. Špecializujeme sa na start-upy, GDPR, reality, daňové právo a obchodné transakcie."
+        "title": "LegisPro - advokátska kancelária Bratislava",
+        "description": "Profesionálne právne služby pre firmy a podnikateľov. Špecializujeme sa na start-upy, GDPR, nehnuteľnosti, finančné právo a obchodné transakcie."
+    },
+    "common": {
+        "sidebar": {
+            "title": "Máte otázky?",
+            "description": "Neváhajte nás kontaktovať",
+            "button": "Kontaktovať nás"
+        }
     },
     "nav": {
         "home": "Domov",
@@ -504,7 +511,19 @@
             "phone": "Telefónne číslo",
             "service": "Vyberte službu",
             "message": "Vaša správa *",
-            "submit": "Odoslať správu"
+            "submit": "Odoslať správu",
+            "options": {
+                "startup": "START UPs & Greenfields",
+                "gdpr": "GDPR",
+                "optimization": "Optimalizačné riešenia",
+                "duediligence": "Due Diligence",
+                "commercial": "Obchodné právo",
+                "tax": "Daňové a finančné právo",
+                "ecommerce": "e-Commerce",
+                "reality": "Nehnuteľnosti",
+                "litigation": "Súdne spory",
+                "criminal": "Trestné právo"
+            }
         },
         "mapInteraction": "Pre interakciu s mapou kliknite"
     },

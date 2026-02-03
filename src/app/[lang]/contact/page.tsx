@@ -92,16 +92,16 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
                                     <input type="tel" name="phone" placeholder={dictionary.contact.form.phone} />
                                     <select name="service">
                                         <option value="">{dictionary.contact.form.service}</option>
-                                        <option value="startup">START UPs & Greenfields</option>
-                                        <option value="gdpr">GDPR</option>
-                                        <option value="optimization">Optimization Solutions</option>
-                                        <option value="duediligence">Due Diligence</option>
-                                        <option value="commercial">Commercial Law</option>
-                                        <option value="tax">Tax & Financial Law</option>
-                                        <option value="ecommerce">e-Commerce</option>
-                                        <option value="reality">Real Estate</option>
-                                        <option value="litigation">Litigation</option>
-                                        <option value="criminal">Criminal Law</option>
+                                        <option value="startup">{dictionary.contact.form.options.startup}</option>
+                                        <option value="gdpr">{dictionary.contact.form.options.gdpr}</option>
+                                        <option value="optimization">{dictionary.contact.form.options.optimization}</option>
+                                        <option value="duediligence">{dictionary.contact.form.options.duediligence}</option>
+                                        <option value="commercial">{dictionary.contact.form.options.commercial}</option>
+                                        <option value="tax">{dictionary.contact.form.options.tax}</option>
+                                        <option value="ecommerce">{dictionary.contact.form.options.ecommerce}</option>
+                                        <option value="reality">{dictionary.contact.form.options.reality}</option>
+                                        <option value="litigation">{dictionary.contact.form.options.litigation}</option>
+                                        <option value="criminal">{dictionary.contact.form.options.criminal}</option>
                                     </select>
                                 </div>
                                 <textarea name="message" placeholder={dictionary.contact.form.message} required></textarea>

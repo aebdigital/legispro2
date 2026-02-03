@@ -124,20 +124,10 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
 
                             <div className="content-image">
                                 <div className="sidebar-widget">
-                                    <h4>
-                                        {lang === 'sk' ? 'Máte otázky?' :
-                                            lang === 'en' ? 'Do you have questions?' :
-                                                lang === 'de' ? 'Haben Sie Fragen?' :
-                                                    'Avez-vous des questions ?'}
-                                    </h4>
-                                    <p>
-                                        {lang === 'sk' ? 'Neváhajte nás kontaktovať' :
-                                            lang === 'en' ? 'Do not hesitate to contact us' :
-                                                lang === 'de' ? 'Zögern Sie nicht, uns zu kontaktieren' :
-                                                    'N\'hésitez pas à nous contacter'}
-                                    </p>
+                                    <h4>{dictionary.common.sidebar.title}</h4>
+                                    <p>{dictionary.common.sidebar.description}</p>
                                     <Link href={`/${lang}/contact`} className="btn btn-primary btn-sm">
-                                        {lang === 'sk' ? 'Kontaktovať nás' : lang === 'en' ? 'Contact Us' : lang === 'de' ? 'Kontaktieren Sie uns' : 'Contactez-nous'}
+                                        {dictionary.common.sidebar.button}
                                     </Link>
                                 </div>
                             </div>

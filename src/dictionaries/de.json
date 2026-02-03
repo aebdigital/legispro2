@@ -3,6 +3,13 @@
         "title": "LegisPro - Anwaltskanzlei Bratislava",
         "description": "Professionelle Rechtsdienstleistungen für Unternehmen und Unternehmer. Wir spezialisieren uns auf Start-ups, GDPR, Immobilien, Steuerrecht und Geschäftstransaktionen."
     },
+    "common": {
+        "sidebar": {
+            "title": "Haben Sie Fragen?",
+            "description": "Zögern Sie nicht, uns zu kontaktieren",
+            "button": "Kontaktieren Sie uns"
+        }
+    },
     "nav": {
         "home": "Home",
         "about": "Über uns",
@@ -502,7 +509,19 @@
             "phone": "Telefonnummer",
             "service": "Service auswählen",
             "message": "Ihre Nachricht *",
-            "submit": "Nachricht senden"
+            "submit": "Nachricht senden",
+            "options": {
+                "startup": "START UPs & Greenfields",
+                "gdpr": "GDPR",
+                "optimization": "Optimierungslösungen",
+                "duediligence": "Due Diligence",
+                "commercial": "Handelsrecht",
+                "tax": "Steuer- und Finanzrecht",
+                "ecommerce": "e-Commerce",
+                "reality": "Immobilien",
+                "litigation": "Rechtsstreitigkeiten",
+                "criminal": "Strafrecht"
+            }
         },
         "mapInteraction": "Klicken Sie, um mit der Karte zu interagieren"
     },

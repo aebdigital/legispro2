@@ -53,10 +53,10 @@ export default async function PodnikatelskyBalikPage({ params }: { params: Promi
 
                         <div className="content-image">
                             <div className="sidebar-widget">
-                                <h4>Máte otázky?</h4>
-                                <p>Neváhajte nás kontaktovať</p>
+                                <h4>{dictionary.common.sidebar.title}</h4>
+                                <p>{dictionary.common.sidebar.description}</p>
                                 <Link href={`/${lang}/contact`} className="btn btn-primary btn-sm">
-                                    {lang === 'sk' ? 'Kontaktovať nás' : lang === 'en' ? 'Contact Us' : lang === 'de' ? 'Kontaktieren Sie uns' : 'Contactez-nous'}
+                                    {dictionary.common.sidebar.button}
                                 </Link>
                             </div>
                         </div>

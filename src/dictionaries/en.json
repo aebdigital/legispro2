@@ -3,6 +3,13 @@
         "title": "LegisPro - Law Firm Bratislava",
         "description": "Professional legal services for businesses and entrepreneurs. We specialize in start-ups, GDPR, real estate, financial law and business transactions."
     },
+    "common": {
+        "sidebar": {
+            "title": "Do you have questions?",
+            "description": "Do not hesitate to contact us",
+            "button": "Contact Us"
+        }
+    },
     "nav": {
         "home": "Home",
         "about": "About",
@@ -500,7 +507,19 @@
             "phone": "Phone Number",
             "service": "Select Service",
             "message": "Your Message *",
-            "submit": "Send Message"
+            "submit": "Send Message",
+            "options": {
+                "startup": "START UPs & Greenfields",
+                "gdpr": "GDPR",
+                "optimization": "Optimization Solutions",
+                "duediligence": "Due Diligence",
+                "commercial": "Commercial Law",
+                "tax": "Tax & Financial Law",
+                "ecommerce": "e-Commerce",
+                "reality": "Real Estate",
+                "litigation": "Litigation",
+                "criminal": "Criminal Law"
+            }
         },
         "mapInteraction": "Click to interact with the map"
     },
