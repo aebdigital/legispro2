@@ -1,6 +1,6 @@
 import { Locale } from '@/i18n-config';
 import { getDictionary } from '@/get-dictionary';
-import Link from 'next/link';
+import ContactForm from '@/components/ContactForm';
 
 export default async function ContactPage({ params }: { params: Promise<{ lang: Locale }> }) {
     const { lang } = await params;
@@ -83,30 +83,7 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
                         {/* Contact Form */}
                         <div className="contact-form-main" id="contact-form">
                             <h2>{dictionary.contact.formTitle}</h2>
-                            <form id="contactForm">
-                                <div className="form-row">
-                                    <input type="text" name="name" placeholder={dictionary.contact.form.name} required />
-                                    <input type="email" name="email" placeholder={dictionary.contact.form.email} required />
-                                </div>
-                                <div className="form-row">
-                                    <input type="tel" name="phone" placeholder={dictionary.contact.form.phone} />
-                                    <select name="service">
-                                        <option value="">{dictionary.contact.form.service}</option>
-                                        <option value="startup">{dictionary.contact.form.options.startup}</option>
-                                        <option value="gdpr">{dictionary.contact.form.options.gdpr}</option>
-                                        <option value="optimization">{dictionary.contact.form.options.optimization}</option>
-                                        <option value="duediligence">{dictionary.contact.form.options.duediligence}</option>
-                                        <option value="commercial">{dictionary.contact.form.options.commercial}</option>
-                                        <option value="tax">{dictionary.contact.form.options.tax}</option>
-                                        <option value="ecommerce">{dictionary.contact.form.options.ecommerce}</option>
-                                        <option value="reality">{dictionary.contact.form.options.reality}</option>
-                                        <option value="litigation">{dictionary.contact.form.options.litigation}</option>
-                                        <option value="criminal">{dictionary.contact.form.options.criminal}</option>
-                                    </select>
-                                </div>
-                                <textarea name="message" placeholder={dictionary.contact.form.message} required></textarea>
-                                <button type="submit" className="btn btn-dark">{dictionary.contact.form.submit}</button>
-                            </form>
+                            <ContactForm dictionary={dictionary.contact} />
                         </div>
                     </div>
                 </div>
