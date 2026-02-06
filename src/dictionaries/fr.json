@@ -509,6 +509,7 @@
             "phone": "Numéro de téléphone",
             "service": "Sélectionner le service",
             "message": "Votre message *",
+            "sending": "Envoi en cours...",
             "submit": "Envoyer le message",
             "options": {
                 "startup": "START UPS & Greenfields",
@@ -523,7 +524,9 @@
                 "criminal": "Droit Pénal"
             }
         },
-        "mapInteraction": "Cliquez pour interagir avec la carte"
+        "mapInteraction": "Cliquez pour interagir avec la carte",
+        "success": "Votre message a été envoyé avec succès. Nous vous contacterons bientôt.",
+        "error": "Une erreur est survenue lors de l'envoi du message. Veuillez réessayer plus tard."
     },
     "footer": {
         "company": "Société",

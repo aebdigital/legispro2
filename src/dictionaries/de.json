@@ -509,6 +509,7 @@
             "phone": "Telefonnummer",
             "service": "Service auswählen",
             "message": "Ihre Nachricht *",
+            "sending": "Senden...",
             "submit": "Nachricht senden",
             "options": {
                 "startup": "START UPs & Greenfields",
@@ -523,7 +524,9 @@
                 "criminal": "Strafrecht"
             }
         },
-        "mapInteraction": "Klicken Sie, um mit der Karte zu interagieren"
+        "mapInteraction": "Klicken Sie, um mit der Karte zu interagieren",
+        "success": "Ihre Nachricht wurde erfolgreich versendet. Wir werden uns in Kürze bei Ihnen melden.",
+        "error": "Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
     },
     "footer": {
         "company": "Unternehmen",

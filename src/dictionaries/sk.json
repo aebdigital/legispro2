@@ -417,7 +417,7 @@
             {
                 "id": "02",
                 "title": "Analýza a stratégia",
-                "description": "Pripravíme detailnú analýzu vášho prípadu a navneme najlepšiu právnu stratégiu na dosiahnutie vašich cieľov."
+                "description": "Pripravíme detailnú analýzu vášho prípadu a navrhneme najlepšiu právnu stratégiu na dosiahnutie vašich cieľov."
             },
             {
                 "id": "03",
@@ -428,7 +428,7 @@
     },
     "vision": {
         "title": "Naša vízia a hodnoty",
-        "description": "Sme tu pre vás už roky a naše skúsenosti hovorí za nás. Dôverujte odborníkom, ktorí rozumejú vašim potrebám a poskytnú vám najlepšie riešenia.",
+        "description": "Sme tu pre vás už roky a naše skúsenosti hovoria za nás. Dôverujte odborníkom, ktorí rozumejú vašim potrebám a poskytnú vám najlepšie riešenia.",
         "values": [
             "Profesionalita a odbornosť",
             "Transparentnosť vo všetkých krokoch",
@@ -511,6 +511,7 @@
             "phone": "Telefónne číslo",
             "service": "Vyberte službu",
             "message": "Vaša správa *",
+            "sending": "Odosielam...",
             "submit": "Odoslať správu",
             "options": {
                 "startup": "START UPs & Greenfields",
@@ -525,7 +526,9 @@
                 "criminal": "Trestné právo"
             }
         },
-        "mapInteraction": "Pre interakciu s mapou kliknite"
+        "mapInteraction": "Pre interakciu s mapou kliknite",
+        "success": "Vaša správa bola úspešne odoslaná. Budeme Vás čoskoro kontaktovať.",
+        "error": "Pri odosielaní správy nastala chyba. Skúste to prosím neskôr."
     },
     "footer": {
         "company": "Spoločnosť",

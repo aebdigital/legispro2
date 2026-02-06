@@ -10,6 +10,7 @@ interface ContactFormProps {
             phone: string;
             service: string;
             message: string;
+            sending: string;
             submit: string;
             options: {
                 startup: string;
@@ -24,8 +25,8 @@ interface ContactFormProps {
                 criminal: string;
             };
         };
-        success?: string;
-        error?: string;
+        success: string;
+        error: string;
     };
 }
 
@@ -65,12 +66,11 @@ export default function ContactForm({ dictionary }: ContactFormProps) {
                 (e.target as HTMLFormElement).reset();
             } else {
                 setSubmitStatus('error');
-                setErrorMessage(result.error || 'Nastala chyba pri odosielaní formulára.');
+                setErrorMessage(result.error);
             }
         } catch (error) {
             console.error('Form submission error:', error);
             setSubmitStatus('error');
-            setErrorMessage('Nastala chyba pri odosielaní formulára. Skúste to prosím neskôr.');
         } finally {
             setIsSubmitting(false);
         }
@@ -80,12 +80,12 @@ export default function ContactForm({ dictionary }: ContactFormProps) {
         <form id="contactForm" onSubmit={handleSubmit}>
             {submitStatus === 'success' && (
                 <div className="form-message success">
-                    {dictionary.success || 'Ďakujeme! Vaša správa bola úspešne odoslaná. Ozveme sa vám čo najskôr.'}
+                    {dictionary.success}
                 </div>
             )}
             {submitStatus === 'error' && (
                 <div className="form-message error">
-                    {errorMessage || dictionary.error || 'Nastala chyba pri odosielaní formulára.'}
+                    {errorMessage || dictionary.error}
                 </div>
             )}
 
@@ -137,7 +137,7 @@ export default function ContactForm({ dictionary }: ContactFormProps) {
                 className="btn btn-dark"
                 disabled={isSubmitting}
             >
-                {isSubmitting ? 'Odosiela sa...' : dictionary.form.submit}
+                {isSubmitting ? dictionary.form.sending : dictionary.form.submit}
             </button>
         </form>
     );

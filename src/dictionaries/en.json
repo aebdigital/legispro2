@@ -507,6 +507,7 @@
             "phone": "Phone Number",
             "service": "Select Service",
             "message": "Your Message *",
+            "sending": "Sending...",
             "submit": "Send Message",
             "options": {
                 "startup": "START UPs & Greenfields",
@@ -521,7 +522,9 @@
                 "criminal": "Criminal Law"
             }
         },
-        "mapInteraction": "Click to interact with the map"
+        "mapInteraction": "Click to interact with the map",
+        "success": "Your message has been successfully sent. We will contact you soon.",
+        "error": "An error occurred while sending the message. Please try again later."
     },
     "footer": {
         "company": "Company",
