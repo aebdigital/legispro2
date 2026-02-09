@@ -1,6 +1,40 @@
-import { Locale } from '@/i18n-config';
+import { Locale, i18n } from '@/i18n-config';
 import { getDictionary } from '@/get-dictionary';
 import ContactForm from '@/components/ContactForm';
+import { Metadata } from 'next';
+import { BASE_URL, getLocalizedPath } from '@/pathnames';
+
+export async function generateMetadata({ params }: { params: Promise<{ lang: Locale }> }): Promise<Metadata> {
+    const { lang } = await params;
+    const dictionary = await getDictionary(lang);
+
+    const title = dictionary.meta.contactTitle || `${dictionary.contact.title} | LegisPro`;
+    const description = dictionary.meta.contactDescription || dictionary.contact.subtitle;
+    const localizedPath = getLocalizedPath('/contact', lang);
+    const url = `${BASE_URL}${localizedPath}`;
+
+    const alternateLanguages: Record<string, string> = {};
+    for (const locale of i18n.locales) {
+        alternateLanguages[locale] = `${BASE_URL}${getLocalizedPath('/contact', locale)}`;
+    }
+
+    return {
+        title,
+        description,
+        openGraph: {
+            title,
+            description,
+            type: 'website',
+            url,
+            siteName: 'LegisPro',
+            locale: lang === 'sk' ? 'sk_SK' : lang === 'de' ? 'de_DE' : lang === 'fr' ? 'fr_FR' : 'en_US',
+        },
+        alternates: {
+            canonical: url,
+            languages: alternateLanguages,
+        },
+    };
+}
 
 export default async function ContactPage({ params }: { params: Promise<{ lang: Locale }> }) {
     const { lang } = await params;

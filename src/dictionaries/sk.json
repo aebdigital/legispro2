@@ -1,7 +1,17 @@
 {
     "meta": {
-        "title": "LegisPro - advokátska kancelária Bratislava",
-        "description": "Profesionálne právne služby pre firmy a podnikateľov. Špecializujeme sa na start-upy, GDPR, nehnuteľnosti, finančné právo a obchodné transakcie."
+        "title": "LegisPro - advokátska kancelária Nitra",
+        "description": "Profesionálne právne služby pre firmy a podnikateľov v Nitre. Špecializujeme sa na start-upy, GDPR, nehnuteľnosti, finančné právo a obchodné transakcie.",
+        "servicesTitle": "Právne služby | LegisPro - advokátska kancelária Nitra",
+        "servicesDescription": "Komplexné právne služby pre firmy a podnikateľov v Nitre. Obchodné právo, GDPR, nehnuteľnosti, daňové právo, spory a ďalšie.",
+        "contactTitle": "Kontakt | LegisPro - advokátska kancelária Nitra",
+        "contactDescription": "Kontaktujte našu advokátsku kanceláriu v Nitre. Sládkovičova 1, 949 01 Nitra. Telefón: +421 948 528 265. Pracovná doba: Po-Pi 8:00-17:00.",
+        "privacyTitle": "Ochrana osobných údajov | LegisPro",
+        "privacyDescription": "Vyhlásenie o ochrane osobných údajov a podmienkach ich spracúvania advokátskej kancelárie LegisPro, Nitra.",
+        "businessPackageTitle": "Podnikateľský balík | LegisPro - advokátska kancelária Nitra",
+        "businessPackageDescription": "Komplexné služby pre začínajúcich podnikateľov pod jednou strechou. Založenie firmy, účtovníctvo, daňové poradenstvo a právna podpora v Nitre.",
+        "trainingTitle": "Školenia a webináre | LegisPro - advokátska kancelária Nitra",
+        "trainingDescription": "Profesionálne právne školenia a webináre na mieru. Občianske, obchodné, pracovné a finančné právo."
     },
     "common": {
         "sidebar": {

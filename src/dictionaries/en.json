@@ -1,7 +1,17 @@
 {
     "meta": {
-        "title": "LegisPro - Law Firm Bratislava",
-        "description": "Professional legal services for businesses and entrepreneurs. We specialize in start-ups, GDPR, real estate, financial law and business transactions."
+        "title": "LegisPro - Law Firm Nitra",
+        "description": "Professional legal services for businesses and entrepreneurs in Nitra. We specialize in start-ups, GDPR, real estate, financial law and business transactions.",
+        "servicesTitle": "Legal Services | LegisPro - Law Firm Nitra",
+        "servicesDescription": "Comprehensive legal services for companies and entrepreneurs in Nitra. Commercial law, GDPR, real estate, tax law, litigation and more.",
+        "contactTitle": "Contact | LegisPro - Law Firm Nitra",
+        "contactDescription": "Contact our law firm in Nitra. Sládkovičova 1, 949 01 Nitra. Phone: +421 948 528 265. Office hours: Mon-Fri 8:00-17:00.",
+        "privacyTitle": "Privacy Policy | LegisPro",
+        "privacyDescription": "Personal data protection declaration and processing conditions of LegisPro law firm, Nitra.",
+        "businessPackageTitle": "Business Package | LegisPro - Law Firm Nitra",
+        "businessPackageDescription": "Comprehensive services for beginning entrepreneurs under one roof. Company formation, accounting, tax consulting and legal support in Nitra.",
+        "trainingTitle": "Training & Webinars | LegisPro - Law Firm Nitra",
+        "trainingDescription": "Professional legal training and webinars tailored to your needs. Civil, commercial, labor and financial law training."
     },
     "common": {
         "sidebar": {
