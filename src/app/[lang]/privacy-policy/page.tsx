@@ -1,32 +1,6 @@
-import { Locale, i18n } from '@/i18n-config';
+import { Locale } from '@/i18n-config';
 import { getDictionary } from '@/get-dictionary';
 import { notFound } from 'next/navigation';
-import { Metadata } from 'next';
-import { BASE_URL } from '@/pathnames';
-
-export async function generateMetadata({ params }: { params: Promise<{ lang: Locale }> }): Promise<Metadata> {
-    const { lang } = await params;
-    const dictionary = await getDictionary(lang);
-
-    const title = dictionary.meta.privacyTitle || `${dictionary.privacy.title} | LegisPro`;
-    const description = dictionary.meta.privacyDescription || dictionary.privacy.subtitle;
-    const url = `${BASE_URL}/${lang}/privacy-policy`;
-
-    const alternateLanguages: Record<string, string> = {};
-    for (const locale of i18n.locales) {
-        alternateLanguages[locale] = `${BASE_URL}/${locale}/privacy-policy`;
-    }
-
-    return {
-        title,
-        description,
-        robots: { index: true, follow: true },
-        alternates: {
-            canonical: url,
-            languages: alternateLanguages,
-        },
-    };
-}
 
 export default async function PrivacyPolicyPage({ params }: { params: Promise<{ lang: Locale }> }) {
     const { lang } = await params;

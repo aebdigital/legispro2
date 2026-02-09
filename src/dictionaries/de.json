@@ -1,17 +1,7 @@
 {
     "meta": {
-        "title": "LegisPro - Anwaltskanzlei Nitra",
-        "description": "Professionelle Rechtsdienstleistungen für Unternehmen und Unternehmer in Nitra. Wir spezialisieren uns auf Start-ups, GDPR, Immobilien, Steuerrecht und Geschäftstransaktionen.",
-        "servicesTitle": "Rechtsdienstleistungen | LegisPro - Anwaltskanzlei Nitra",
-        "servicesDescription": "Umfassende Rechtsdienstleistungen für Unternehmen und Unternehmer in Nitra. Handelsrecht, GDPR, Immobilien, Steuerrecht, Rechtsstreitigkeiten und mehr.",
-        "contactTitle": "Kontakt | LegisPro - Anwaltskanzlei Nitra",
-        "contactDescription": "Kontaktieren Sie unsere Anwaltskanzlei in Nitra. Sládkovičova 1, 949 01 Nitra. Telefon: +421 948 528 265. Bürozeiten: Mo-Fr 8:00-17:00.",
-        "privacyTitle": "Datenschutzerklärung | LegisPro",
-        "privacyDescription": "Erklärung zum Schutz personenbezogener Daten und deren Verarbeitungsbedingungen der Anwaltskanzlei LegisPro, Nitra.",
-        "businessPackageTitle": "Unternehmenspaket | LegisPro - Anwaltskanzlei Nitra",
-        "businessPackageDescription": "Umfassende Dienstleistungen für Existenzgründer unter einem Dach. Firmengründung, Buchhaltung, Steuerberatung und rechtliche Unterstützung in Nitra.",
-        "trainingTitle": "Schulungen & Webinare | LegisPro - Anwaltskanzlei Nitra",
-        "trainingDescription": "Professionelle Rechtsschulungen und Webinare nach Maß. Zivil-, Handels-, Arbeits- und Finanzrecht."
+        "title": "LegisPro - Anwaltskanzlei Bratislava",
+        "description": "Professionelle Rechtsdienstleistungen für Unternehmen und Unternehmer. Wir spezialisieren uns auf Start-ups, GDPR, Immobilien, Steuerrecht und Geschäftstransaktionen."
     },
     "common": {
         "sidebar": {

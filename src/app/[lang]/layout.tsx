@@ -82,45 +82,6 @@ export default async function RootLayout({
                 />
             </head>
             <body className={`${inter.className} legacy-styles`}>
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{
-                        __html: JSON.stringify({
-                            '@context': 'https://schema.org',
-                            '@type': 'LegalService',
-                            name: 'LegisPro, s.r.o.',
-                            description: dictionary.meta?.description,
-                            url: 'https://legispro.sk',
-                            telephone: '+421948528265',
-                            email: 'office@legispro.sk',
-                            address: {
-                                '@type': 'PostalAddress',
-                                streetAddress: 'Sládkovičova 1',
-                                addressLocality: 'Nitra',
-                                postalCode: '949 01',
-                                addressCountry: 'SK',
-                            },
-                            geo: {
-                                '@type': 'GeoCoordinates',
-                                latitude: 48.3146597792368,
-                                longitude: 18.084437315673,
-                            },
-                            openingHoursSpecification: {
-                                '@type': 'OpeningHoursSpecification',
-                                dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-                                opens: '08:00',
-                                closes: '17:00',
-                            },
-                            areaServed: {
-                                '@type': 'Country',
-                                name: 'Slovakia',
-                            },
-                            priceRange: '$$',
-                            image: 'https://legispro.sk/sources/images/legal-office-1.jpg',
-                            sameAs: [],
-                        }),
-                    }}
-                />
                 <Header lang={locale} dictionary={dictionary} />
                 {children}
                 <Location dictionary={dictionary} />
