@@ -49,14 +49,7 @@ export default async function BlogPage({ params }: { params: Promise<{ lang: Loc
     const dictionary = await getDictionary(lang);
 
     // Fetch dynamic blogs from Supabase
-    const dynamicPosts = await getDynamicBlogs(lang);
-
-    // Merge static and dynamic posts
-    const allPosts = {
-        ...dictionary.blog.posts,
-        ...dynamicPosts
-    };
-
+    const allPosts = await getDynamicBlogs(lang);
     const posts = Object.entries(allPosts);
 
     return (

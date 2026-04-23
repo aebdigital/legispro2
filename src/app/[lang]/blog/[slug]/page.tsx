@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 
-import { getDynamicBlogBySlug } from '@/lib/blogs';
+import { getDynamicBlogBySlug, getDynamicBlogs } from '@/lib/blogs';
 import { BASE_URL } from '@/pathnames';
 
 // Disable caching to pick up new/updated blogs immediately
@@ -14,13 +14,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: Loc
     const { lang, slug } = await params;
     const dictionary = await getDictionary(lang);
 
-    // Try to get from dictionary first
-    let post = (dictionary.blog.posts as Record<string, any>)[slug];
-
-    // If not in dictionary, try to get from Supabase
-    if (!post) {
-        post = await getDynamicBlogBySlug(slug, lang);
-    }
+    // Get from Supabase
+    const post = await getDynamicBlogBySlug(slug, lang);
 
     if (!post) {
         return {
@@ -79,13 +74,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
     const { lang, slug } = await params;
     const dictionary = await getDictionary(lang);
 
-    // Try to get from dictionary first
-    let post = (dictionary.blog.posts as Record<string, any>)[slug];
+    // Get from Supabase
+    const post = await getDynamicBlogBySlug(slug, lang);
 
-    // If not in dictionary, try to get from Supabase
-    if (!post) {
-        post = await getDynamicBlogBySlug(slug, lang);
-    }
+    // Fetch dynamic blogs for sidebar
+    const allPosts = await getDynamicBlogs(lang);
 
     if (!post) {
         notFound();
@@ -131,7 +124,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
                         <aside className="post-sidebar">
                             <div className="sidebar-card">
                                 <h3>{dictionary.blog.recentPosts}</h3>
-                                {Object.entries(dictionary.blog.posts)
+                                {Object.entries(allPosts)
                                     .filter(([s]) => s !== slug)
                                     .slice(0, 3)
                                     .map(([s, p]: [string, any]) => (
