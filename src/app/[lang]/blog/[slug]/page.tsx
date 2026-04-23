@@ -7,8 +7,8 @@ import { Metadata } from 'next';
 import { getDynamicBlogBySlug } from '@/lib/blogs';
 import { BASE_URL } from '@/pathnames';
 
-// Revalidate every hour to pick up new/updated blogs
-export const revalidate = 3600;
+// Disable caching to pick up new/updated blogs immediately
+export const revalidate = 0;
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: Locale, slug: string }> }): Promise<Metadata> {
     const { lang, slug } = await params;
